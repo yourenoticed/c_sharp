@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "hw04_max_of_three/1.0.0": {
+        "runtime": {
+          "hw04_max_of_three.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hw04_max_of_three/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

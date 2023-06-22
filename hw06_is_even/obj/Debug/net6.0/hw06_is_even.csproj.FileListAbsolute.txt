@@ -1,0 +1,15 @@
+C:\Users\Corei3\Desktop\c_sharp\hw06_is_even\bin\Debug\net6.0\hw06_is_even.exe
+C:\Users\Corei3\Desktop\c_sharp\hw06_is_even\bin\Debug\net6.0\hw06_is_even.deps.json
+C:\Users\Corei3\Desktop\c_sharp\hw06_is_even\bin\Debug\net6.0\hw06_is_even.runtimeconfig.json
+C:\Users\Corei3\Desktop\c_sharp\hw06_is_even\bin\Debug\net6.0\hw06_is_even.dll
+C:\Users\Corei3\Desktop\c_sharp\hw06_is_even\bin\Debug\net6.0\hw06_is_even.pdb
+C:\Users\Corei3\Desktop\c_sharp\hw06_is_even\obj\Debug\net6.0\hw06_is_even.csproj.AssemblyReference.cache
+C:\Users\Corei3\Desktop\c_sharp\hw06_is_even\obj\Debug\net6.0\hw06_is_even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Corei3\Desktop\c_sharp\hw06_is_even\obj\Debug\net6.0\hw06_is_even.AssemblyInfoInputs.cache
+C:\Users\Corei3\Desktop\c_sharp\hw06_is_even\obj\Debug\net6.0\hw06_is_even.AssemblyInfo.cs
+C:\Users\Corei3\Desktop\c_sharp\hw06_is_even\obj\Debug\net6.0\hw06_is_even.csproj.CoreCompileInputs.cache
+C:\Users\Corei3\Desktop\c_sharp\hw06_is_even\obj\Debug\net6.0\hw06_is_even.dll
+C:\Users\Corei3\Desktop\c_sharp\hw06_is_even\obj\Debug\net6.0\refint\hw06_is_even.dll
+C:\Users\Corei3\Desktop\c_sharp\hw06_is_even\obj\Debug\net6.0\hw06_is_even.pdb
+C:\Users\Corei3\Desktop\c_sharp\hw06_is_even\obj\Debug\net6.0\hw06_is_even.genruntimeconfig.cache
+C:\Users\Corei3\Desktop\c_sharp\hw06_is_even\obj\Debug\net6.0\ref\hw06_is_even.dll

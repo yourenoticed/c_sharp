@@ -1,0 +1,15 @@
+C:\Users\Corei3\Desktop\c_sharp\hw02_max_of_two\obj\Debug\net6.0\hw02_max_of_two.csproj.AssemblyReference.cache
+C:\Users\Corei3\Desktop\c_sharp\hw02_max_of_two\obj\Debug\net6.0\hw02_max_of_two.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Corei3\Desktop\c_sharp\hw02_max_of_two\obj\Debug\net6.0\hw02_max_of_two.AssemblyInfoInputs.cache
+C:\Users\Corei3\Desktop\c_sharp\hw02_max_of_two\obj\Debug\net6.0\hw02_max_of_two.AssemblyInfo.cs
+C:\Users\Corei3\Desktop\c_sharp\hw02_max_of_two\obj\Debug\net6.0\hw02_max_of_two.csproj.CoreCompileInputs.cache
+C:\Users\Corei3\Desktop\c_sharp\hw02_max_of_two\bin\Debug\net6.0\hw02_max_of_two.exe
+C:\Users\Corei3\Desktop\c_sharp\hw02_max_of_two\bin\Debug\net6.0\hw02_max_of_two.deps.json
+C:\Users\Corei3\Desktop\c_sharp\hw02_max_of_two\bin\Debug\net6.0\hw02_max_of_two.runtimeconfig.json
+C:\Users\Corei3\Desktop\c_sharp\hw02_max_of_two\bin\Debug\net6.0\hw02_max_of_two.dll
+C:\Users\Corei3\Desktop\c_sharp\hw02_max_of_two\bin\Debug\net6.0\hw02_max_of_two.pdb
+C:\Users\Corei3\Desktop\c_sharp\hw02_max_of_two\obj\Debug\net6.0\hw02_max_of_two.dll
+C:\Users\Corei3\Desktop\c_sharp\hw02_max_of_two\obj\Debug\net6.0\refint\hw02_max_of_two.dll
+C:\Users\Corei3\Desktop\c_sharp\hw02_max_of_two\obj\Debug\net6.0\hw02_max_of_two.pdb
+C:\Users\Corei3\Desktop\c_sharp\hw02_max_of_two\obj\Debug\net6.0\hw02_max_of_two.genruntimeconfig.cache
+C:\Users\Corei3\Desktop\c_sharp\hw02_max_of_two\obj\Debug\net6.0\ref\hw02_max_of_two.dll
