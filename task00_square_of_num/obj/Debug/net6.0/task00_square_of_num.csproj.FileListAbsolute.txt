@@ -1,0 +1,15 @@
+C:\Users\Corei3\Desktop\c_sharp\task00_square_of_num\bin\Debug\net6.0\task00_square_of_num.exe
+C:\Users\Corei3\Desktop\c_sharp\task00_square_of_num\bin\Debug\net6.0\task00_square_of_num.deps.json
+C:\Users\Corei3\Desktop\c_sharp\task00_square_of_num\bin\Debug\net6.0\task00_square_of_num.runtimeconfig.json
+C:\Users\Corei3\Desktop\c_sharp\task00_square_of_num\bin\Debug\net6.0\task00_square_of_num.dll
+C:\Users\Corei3\Desktop\c_sharp\task00_square_of_num\bin\Debug\net6.0\task00_square_of_num.pdb
+C:\Users\Corei3\Desktop\c_sharp\task00_square_of_num\obj\Debug\net6.0\task00_square_of_num.csproj.AssemblyReference.cache
+C:\Users\Corei3\Desktop\c_sharp\task00_square_of_num\obj\Debug\net6.0\task00_square_of_num.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Corei3\Desktop\c_sharp\task00_square_of_num\obj\Debug\net6.0\task00_square_of_num.AssemblyInfoInputs.cache
+C:\Users\Corei3\Desktop\c_sharp\task00_square_of_num\obj\Debug\net6.0\task00_square_of_num.AssemblyInfo.cs
+C:\Users\Corei3\Desktop\c_sharp\task00_square_of_num\obj\Debug\net6.0\task00_square_of_num.csproj.CoreCompileInputs.cache
+C:\Users\Corei3\Desktop\c_sharp\task00_square_of_num\obj\Debug\net6.0\task00_square_of_num.dll
+C:\Users\Corei3\Desktop\c_sharp\task00_square_of_num\obj\Debug\net6.0\refint\task00_square_of_num.dll
+C:\Users\Corei3\Desktop\c_sharp\task00_square_of_num\obj\Debug\net6.0\task00_square_of_num.pdb
+C:\Users\Corei3\Desktop\c_sharp\task00_square_of_num\obj\Debug\net6.0\task00_square_of_num.genruntimeconfig.cache
+C:\Users\Corei3\Desktop\c_sharp\task00_square_of_num\obj\Debug\net6.0\ref\task00_square_of_num.dll
