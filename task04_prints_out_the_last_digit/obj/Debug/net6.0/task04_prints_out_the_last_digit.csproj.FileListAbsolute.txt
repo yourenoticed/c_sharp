@@ -1,0 +1,15 @@
+C:\Users\Corei3\Desktop\c_sharp\task04_prints_out_the_last_digit\bin\Debug\net6.0\task04_prints_out_the_last_digit.exe
+C:\Users\Corei3\Desktop\c_sharp\task04_prints_out_the_last_digit\bin\Debug\net6.0\task04_prints_out_the_last_digit.deps.json
+C:\Users\Corei3\Desktop\c_sharp\task04_prints_out_the_last_digit\bin\Debug\net6.0\task04_prints_out_the_last_digit.runtimeconfig.json
+C:\Users\Corei3\Desktop\c_sharp\task04_prints_out_the_last_digit\bin\Debug\net6.0\task04_prints_out_the_last_digit.dll
+C:\Users\Corei3\Desktop\c_sharp\task04_prints_out_the_last_digit\bin\Debug\net6.0\task04_prints_out_the_last_digit.pdb
+C:\Users\Corei3\Desktop\c_sharp\task04_prints_out_the_last_digit\obj\Debug\net6.0\task04_prints_out_the_last_digit.csproj.AssemblyReference.cache
+C:\Users\Corei3\Desktop\c_sharp\task04_prints_out_the_last_digit\obj\Debug\net6.0\task04_prints_out_the_last_digit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Corei3\Desktop\c_sharp\task04_prints_out_the_last_digit\obj\Debug\net6.0\task04_prints_out_the_last_digit.AssemblyInfoInputs.cache
+C:\Users\Corei3\Desktop\c_sharp\task04_prints_out_the_last_digit\obj\Debug\net6.0\task04_prints_out_the_last_digit.AssemblyInfo.cs
+C:\Users\Corei3\Desktop\c_sharp\task04_prints_out_the_last_digit\obj\Debug\net6.0\task04_prints_out_the_last_digit.csproj.CoreCompileInputs.cache
+C:\Users\Corei3\Desktop\c_sharp\task04_prints_out_the_last_digit\obj\Debug\net6.0\task04_prints_out_the_last_digit.dll
+C:\Users\Corei3\Desktop\c_sharp\task04_prints_out_the_last_digit\obj\Debug\net6.0\refint\task04_prints_out_the_last_digit.dll
+C:\Users\Corei3\Desktop\c_sharp\task04_prints_out_the_last_digit\obj\Debug\net6.0\task04_prints_out_the_last_digit.pdb
+C:\Users\Corei3\Desktop\c_sharp\task04_prints_out_the_last_digit\obj\Debug\net6.0\task04_prints_out_the_last_digit.genruntimeconfig.cache
+C:\Users\Corei3\Desktop\c_sharp\task04_prints_out_the_last_digit\obj\Debug\net6.0\ref\task04_prints_out_the_last_digit.dll
