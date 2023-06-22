@@ -1,0 +1,15 @@
+C:\Users\Corei3\Desktop\c_sharp\task01_is_square\bin\Debug\net6.0\task01_is_square.exe
+C:\Users\Corei3\Desktop\c_sharp\task01_is_square\bin\Debug\net6.0\task01_is_square.deps.json
+C:\Users\Corei3\Desktop\c_sharp\task01_is_square\bin\Debug\net6.0\task01_is_square.runtimeconfig.json
+C:\Users\Corei3\Desktop\c_sharp\task01_is_square\bin\Debug\net6.0\task01_is_square.dll
+C:\Users\Corei3\Desktop\c_sharp\task01_is_square\bin\Debug\net6.0\task01_is_square.pdb
+C:\Users\Corei3\Desktop\c_sharp\task01_is_square\obj\Debug\net6.0\task01_is_square.csproj.AssemblyReference.cache
+C:\Users\Corei3\Desktop\c_sharp\task01_is_square\obj\Debug\net6.0\task01_is_square.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Corei3\Desktop\c_sharp\task01_is_square\obj\Debug\net6.0\task01_is_square.AssemblyInfoInputs.cache
+C:\Users\Corei3\Desktop\c_sharp\task01_is_square\obj\Debug\net6.0\task01_is_square.AssemblyInfo.cs
+C:\Users\Corei3\Desktop\c_sharp\task01_is_square\obj\Debug\net6.0\task01_is_square.csproj.CoreCompileInputs.cache
+C:\Users\Corei3\Desktop\c_sharp\task01_is_square\obj\Debug\net6.0\task01_is_square.dll
+C:\Users\Corei3\Desktop\c_sharp\task01_is_square\obj\Debug\net6.0\refint\task01_is_square.dll
+C:\Users\Corei3\Desktop\c_sharp\task01_is_square\obj\Debug\net6.0\task01_is_square.pdb
+C:\Users\Corei3\Desktop\c_sharp\task01_is_square\obj\Debug\net6.0\task01_is_square.genruntimeconfig.cache
+C:\Users\Corei3\Desktop\c_sharp\task01_is_square\obj\Debug\net6.0\ref\task01_is_square.dll
