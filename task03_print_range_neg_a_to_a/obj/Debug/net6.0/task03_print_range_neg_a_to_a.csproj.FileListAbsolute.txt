@@ -1,0 +1,15 @@
+C:\Users\Corei3\Desktop\c_sharp\task03_print_range_neg_a_to_a\obj\Debug\net6.0\task03_print_range_neg_a_to_a.csproj.AssemblyReference.cache
+C:\Users\Corei3\Desktop\c_sharp\task03_print_range_neg_a_to_a\obj\Debug\net6.0\task03_print_range_neg_a_to_a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Corei3\Desktop\c_sharp\task03_print_range_neg_a_to_a\obj\Debug\net6.0\task03_print_range_neg_a_to_a.AssemblyInfoInputs.cache
+C:\Users\Corei3\Desktop\c_sharp\task03_print_range_neg_a_to_a\obj\Debug\net6.0\task03_print_range_neg_a_to_a.AssemblyInfo.cs
+C:\Users\Corei3\Desktop\c_sharp\task03_print_range_neg_a_to_a\obj\Debug\net6.0\task03_print_range_neg_a_to_a.csproj.CoreCompileInputs.cache
+C:\Users\Corei3\Desktop\c_sharp\task03_print_range_neg_a_to_a\bin\Debug\net6.0\task03_print_range_neg_a_to_a.exe
+C:\Users\Corei3\Desktop\c_sharp\task03_print_range_neg_a_to_a\bin\Debug\net6.0\task03_print_range_neg_a_to_a.deps.json
+C:\Users\Corei3\Desktop\c_sharp\task03_print_range_neg_a_to_a\bin\Debug\net6.0\task03_print_range_neg_a_to_a.runtimeconfig.json
+C:\Users\Corei3\Desktop\c_sharp\task03_print_range_neg_a_to_a\bin\Debug\net6.0\task03_print_range_neg_a_to_a.dll
+C:\Users\Corei3\Desktop\c_sharp\task03_print_range_neg_a_to_a\bin\Debug\net6.0\task03_print_range_neg_a_to_a.pdb
+C:\Users\Corei3\Desktop\c_sharp\task03_print_range_neg_a_to_a\obj\Debug\net6.0\task03_print_range_neg_a_to_a.dll
+C:\Users\Corei3\Desktop\c_sharp\task03_print_range_neg_a_to_a\obj\Debug\net6.0\refint\task03_print_range_neg_a_to_a.dll
+C:\Users\Corei3\Desktop\c_sharp\task03_print_range_neg_a_to_a\obj\Debug\net6.0\task03_print_range_neg_a_to_a.pdb
+C:\Users\Corei3\Desktop\c_sharp\task03_print_range_neg_a_to_a\obj\Debug\net6.0\task03_print_range_neg_a_to_a.genruntimeconfig.cache
+C:\Users\Corei3\Desktop\c_sharp\task03_print_range_neg_a_to_a\obj\Debug\net6.0\ref\task03_print_range_neg_a_to_a.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task03_print_range_neg_a_to_a/1.0.0": {
+        "runtime": {
+          "task03_print_range_neg_a_to_a.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task03_print_range_neg_a_to_a/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
