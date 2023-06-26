@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zSJkwekXhg721KwbzL1T4QeqX38lQo8FL8JLrCJ4puxkRqCIzadX1qcvE80c0OelY5frXeBWvenYQnLu/SF+KQ==",
+  "dgSpecHash": "SMHyxEWkaD3l7E9t2ZC5GJXcNbvHLqz87UioR7nFgIXS+tL4nV2iaRilU5VPXRBz8Ju4ndBgr/kbEJnTYKwL7Q==",
   "success": true,
-  "projectFilePath": "/home/noticed/Desktop/csharp/c_sharp/task09_random_num_10_99/task09_random_num_10_99.csproj",
+  "projectFilePath": "/home/noticed/Desktop/csharp/c_sharp/task09_max_digit_of_random_num_10_99/task09_random_num_10_99.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
