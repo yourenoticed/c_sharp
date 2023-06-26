@@ -1,0 +1,15 @@
+/home/noticed/Desktop/csharp/c_sharp/hw13_third_digit/bin/Debug/net6.0/hw13_third_digit
+/home/noticed/Desktop/csharp/c_sharp/hw13_third_digit/bin/Debug/net6.0/hw13_third_digit.deps.json
+/home/noticed/Desktop/csharp/c_sharp/hw13_third_digit/bin/Debug/net6.0/hw13_third_digit.runtimeconfig.json
+/home/noticed/Desktop/csharp/c_sharp/hw13_third_digit/bin/Debug/net6.0/hw13_third_digit.dll
+/home/noticed/Desktop/csharp/c_sharp/hw13_third_digit/bin/Debug/net6.0/ref/hw13_third_digit.dll
+/home/noticed/Desktop/csharp/c_sharp/hw13_third_digit/bin/Debug/net6.0/hw13_third_digit.pdb
+/home/noticed/Desktop/csharp/c_sharp/hw13_third_digit/obj/Debug/net6.0/hw13_third_digit.csproj.AssemblyReference.cache
+/home/noticed/Desktop/csharp/c_sharp/hw13_third_digit/obj/Debug/net6.0/hw13_third_digit.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/csharp/c_sharp/hw13_third_digit/obj/Debug/net6.0/hw13_third_digit.AssemblyInfoInputs.cache
+/home/noticed/Desktop/csharp/c_sharp/hw13_third_digit/obj/Debug/net6.0/hw13_third_digit.AssemblyInfo.cs
+/home/noticed/Desktop/csharp/c_sharp/hw13_third_digit/obj/Debug/net6.0/hw13_third_digit.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/csharp/c_sharp/hw13_third_digit/obj/Debug/net6.0/hw13_third_digit.dll
+/home/noticed/Desktop/csharp/c_sharp/hw13_third_digit/obj/Debug/net6.0/ref/hw13_third_digit.dll
+/home/noticed/Desktop/csharp/c_sharp/hw13_third_digit/obj/Debug/net6.0/hw13_third_digit.pdb
+/home/noticed/Desktop/csharp/c_sharp/hw13_third_digit/obj/Debug/net6.0/hw13_third_digit.genruntimeconfig.cache

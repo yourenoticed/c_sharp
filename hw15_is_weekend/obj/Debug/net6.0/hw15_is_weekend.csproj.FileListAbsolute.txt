@@ -1,0 +1,15 @@
+/home/noticed/Desktop/csharp/c_sharp/hw15_is_weekend/bin/Debug/net6.0/hw15_is_weekend
+/home/noticed/Desktop/csharp/c_sharp/hw15_is_weekend/bin/Debug/net6.0/hw15_is_weekend.deps.json
+/home/noticed/Desktop/csharp/c_sharp/hw15_is_weekend/bin/Debug/net6.0/hw15_is_weekend.runtimeconfig.json
+/home/noticed/Desktop/csharp/c_sharp/hw15_is_weekend/bin/Debug/net6.0/hw15_is_weekend.dll
+/home/noticed/Desktop/csharp/c_sharp/hw15_is_weekend/bin/Debug/net6.0/ref/hw15_is_weekend.dll
+/home/noticed/Desktop/csharp/c_sharp/hw15_is_weekend/bin/Debug/net6.0/hw15_is_weekend.pdb
+/home/noticed/Desktop/csharp/c_sharp/hw15_is_weekend/obj/Debug/net6.0/hw15_is_weekend.csproj.AssemblyReference.cache
+/home/noticed/Desktop/csharp/c_sharp/hw15_is_weekend/obj/Debug/net6.0/hw15_is_weekend.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/csharp/c_sharp/hw15_is_weekend/obj/Debug/net6.0/hw15_is_weekend.AssemblyInfoInputs.cache
+/home/noticed/Desktop/csharp/c_sharp/hw15_is_weekend/obj/Debug/net6.0/hw15_is_weekend.AssemblyInfo.cs
+/home/noticed/Desktop/csharp/c_sharp/hw15_is_weekend/obj/Debug/net6.0/hw15_is_weekend.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/csharp/c_sharp/hw15_is_weekend/obj/Debug/net6.0/hw15_is_weekend.dll
+/home/noticed/Desktop/csharp/c_sharp/hw15_is_weekend/obj/Debug/net6.0/ref/hw15_is_weekend.dll
+/home/noticed/Desktop/csharp/c_sharp/hw15_is_weekend/obj/Debug/net6.0/hw15_is_weekend.pdb
+/home/noticed/Desktop/csharp/c_sharp/hw15_is_weekend/obj/Debug/net6.0/hw15_is_weekend.genruntimeconfig.cache

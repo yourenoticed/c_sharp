@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "hw15_is_weekend/1.0.0": {
+        "runtime": {
+          "hw15_is_weekend.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hw15_is_weekend/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

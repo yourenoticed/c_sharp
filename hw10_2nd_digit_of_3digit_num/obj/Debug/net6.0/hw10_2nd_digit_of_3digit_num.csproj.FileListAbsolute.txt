@@ -1,0 +1,15 @@
+/home/noticed/Desktop/csharp/c_sharp/hw10_2nd_digit_of_3digit_num/obj/Debug/net6.0/hw10_2nd_digit_of_3digit_num.csproj.AssemblyReference.cache
+/home/noticed/Desktop/csharp/c_sharp/hw10_2nd_digit_of_3digit_num/obj/Debug/net6.0/hw10_2nd_digit_of_3digit_num.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/csharp/c_sharp/hw10_2nd_digit_of_3digit_num/obj/Debug/net6.0/hw10_2nd_digit_of_3digit_num.AssemblyInfoInputs.cache
+/home/noticed/Desktop/csharp/c_sharp/hw10_2nd_digit_of_3digit_num/obj/Debug/net6.0/hw10_2nd_digit_of_3digit_num.AssemblyInfo.cs
+/home/noticed/Desktop/csharp/c_sharp/hw10_2nd_digit_of_3digit_num/obj/Debug/net6.0/hw10_2nd_digit_of_3digit_num.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/csharp/c_sharp/hw10_2nd_digit_of_3digit_num/bin/Debug/net6.0/hw10_2nd_digit_of_3digit_num
+/home/noticed/Desktop/csharp/c_sharp/hw10_2nd_digit_of_3digit_num/bin/Debug/net6.0/hw10_2nd_digit_of_3digit_num.deps.json
+/home/noticed/Desktop/csharp/c_sharp/hw10_2nd_digit_of_3digit_num/bin/Debug/net6.0/hw10_2nd_digit_of_3digit_num.runtimeconfig.json
+/home/noticed/Desktop/csharp/c_sharp/hw10_2nd_digit_of_3digit_num/bin/Debug/net6.0/hw10_2nd_digit_of_3digit_num.dll
+/home/noticed/Desktop/csharp/c_sharp/hw10_2nd_digit_of_3digit_num/bin/Debug/net6.0/ref/hw10_2nd_digit_of_3digit_num.dll
+/home/noticed/Desktop/csharp/c_sharp/hw10_2nd_digit_of_3digit_num/bin/Debug/net6.0/hw10_2nd_digit_of_3digit_num.pdb
+/home/noticed/Desktop/csharp/c_sharp/hw10_2nd_digit_of_3digit_num/obj/Debug/net6.0/hw10_2nd_digit_of_3digit_num.dll
+/home/noticed/Desktop/csharp/c_sharp/hw10_2nd_digit_of_3digit_num/obj/Debug/net6.0/ref/hw10_2nd_digit_of_3digit_num.dll
+/home/noticed/Desktop/csharp/c_sharp/hw10_2nd_digit_of_3digit_num/obj/Debug/net6.0/hw10_2nd_digit_of_3digit_num.pdb
+/home/noticed/Desktop/csharp/c_sharp/hw10_2nd_digit_of_3digit_num/obj/Debug/net6.0/hw10_2nd_digit_of_3digit_num.genruntimeconfig.cache
