@@ -1,0 +1,15 @@
+/home/noticed/Desktop/csharp/c_sharp/task12_is_divisible/bin/Debug/net6.0/task12_is_divisible
+/home/noticed/Desktop/csharp/c_sharp/task12_is_divisible/bin/Debug/net6.0/task12_is_divisible.deps.json
+/home/noticed/Desktop/csharp/c_sharp/task12_is_divisible/bin/Debug/net6.0/task12_is_divisible.runtimeconfig.json
+/home/noticed/Desktop/csharp/c_sharp/task12_is_divisible/bin/Debug/net6.0/task12_is_divisible.dll
+/home/noticed/Desktop/csharp/c_sharp/task12_is_divisible/bin/Debug/net6.0/ref/task12_is_divisible.dll
+/home/noticed/Desktop/csharp/c_sharp/task12_is_divisible/bin/Debug/net6.0/task12_is_divisible.pdb
+/home/noticed/Desktop/csharp/c_sharp/task12_is_divisible/obj/Debug/net6.0/task12_is_divisible.csproj.AssemblyReference.cache
+/home/noticed/Desktop/csharp/c_sharp/task12_is_divisible/obj/Debug/net6.0/task12_is_divisible.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/csharp/c_sharp/task12_is_divisible/obj/Debug/net6.0/task12_is_divisible.AssemblyInfoInputs.cache
+/home/noticed/Desktop/csharp/c_sharp/task12_is_divisible/obj/Debug/net6.0/task12_is_divisible.AssemblyInfo.cs
+/home/noticed/Desktop/csharp/c_sharp/task12_is_divisible/obj/Debug/net6.0/task12_is_divisible.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/csharp/c_sharp/task12_is_divisible/obj/Debug/net6.0/task12_is_divisible.dll
+/home/noticed/Desktop/csharp/c_sharp/task12_is_divisible/obj/Debug/net6.0/ref/task12_is_divisible.dll
+/home/noticed/Desktop/csharp/c_sharp/task12_is_divisible/obj/Debug/net6.0/task12_is_divisible.pdb
+/home/noticed/Desktop/csharp/c_sharp/task12_is_divisible/obj/Debug/net6.0/task12_is_divisible.genruntimeconfig.cache

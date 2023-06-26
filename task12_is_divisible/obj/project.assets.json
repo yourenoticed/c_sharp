@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/noticed/Desktop/csharp/c_sharp/task11_del_2nd_digit/task_11_del_2nd_digit.csproj",
-      "projectName": "task_11_del_2nd_digit",
-      "projectPath": "/home/noticed/Desktop/csharp/c_sharp/task11_del_2nd_digit/task_11_del_2nd_digit.csproj",
+      "projectUniqueName": "/home/noticed/Desktop/csharp/c_sharp/task12_is_divisible/task12_is_divisible.csproj",
+      "projectName": "task12_is_divisible",
+      "projectPath": "/home/noticed/Desktop/csharp/c_sharp/task12_is_divisible/task12_is_divisible.csproj",
       "packagesPath": "/home/noticed/.nuget/packages/",
-      "outputPath": "/home/noticed/Desktop/csharp/c_sharp/task11_del_2nd_digit/obj/",
+      "outputPath": "/home/noticed/Desktop/csharp/c_sharp/task12_is_divisible/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/noticed/.nuget/NuGet/NuGet.Config"

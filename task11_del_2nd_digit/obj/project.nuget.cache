@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ctRVWUUExkBkjS1SnNGgVKbkW6zvJb1yslzrgFxE2fy+KiTppmLVRtJwnWB0uPJbEGa/cuxmWBO1L/1v0geplg==",
+  "dgSpecHash": "DHDTxOpUpAHCcaq46JkvQIdYewS76udOPIP6gFVkyziUhm2eJvK2W7YG1BKHK6VJ1gGbyaDY9Wt8D7h/c6YVrQ==",
   "success": true,
-  "projectFilePath": "/home/noticed/Desktop/csharp/c_sharp/task_11_del_2nd_digit/task_11_del_2nd_digit.csproj",
+  "projectFilePath": "/home/noticed/Desktop/csharp/c_sharp/task11_del_2nd_digit/task_11_del_2nd_digit.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
