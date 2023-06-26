@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task09_random_num_10_99/1.0.0": {
+        "runtime": {
+          "task09_random_num_10_99.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task09_random_num_10_99/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

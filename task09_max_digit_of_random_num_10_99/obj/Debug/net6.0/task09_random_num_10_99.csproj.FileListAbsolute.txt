@@ -1,0 +1,15 @@
+/home/noticed/Desktop/csharp/c_sharp/task09_random_num_10_99/obj/Debug/net6.0/task09_random_num_10_99.csproj.AssemblyReference.cache
+/home/noticed/Desktop/csharp/c_sharp/task09_random_num_10_99/obj/Debug/net6.0/task09_random_num_10_99.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/csharp/c_sharp/task09_random_num_10_99/obj/Debug/net6.0/task09_random_num_10_99.AssemblyInfoInputs.cache
+/home/noticed/Desktop/csharp/c_sharp/task09_random_num_10_99/obj/Debug/net6.0/task09_random_num_10_99.AssemblyInfo.cs
+/home/noticed/Desktop/csharp/c_sharp/task09_random_num_10_99/obj/Debug/net6.0/task09_random_num_10_99.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/csharp/c_sharp/task09_random_num_10_99/bin/Debug/net6.0/task09_random_num_10_99
+/home/noticed/Desktop/csharp/c_sharp/task09_random_num_10_99/bin/Debug/net6.0/task09_random_num_10_99.deps.json
+/home/noticed/Desktop/csharp/c_sharp/task09_random_num_10_99/bin/Debug/net6.0/task09_random_num_10_99.runtimeconfig.json
+/home/noticed/Desktop/csharp/c_sharp/task09_random_num_10_99/bin/Debug/net6.0/task09_random_num_10_99.dll
+/home/noticed/Desktop/csharp/c_sharp/task09_random_num_10_99/bin/Debug/net6.0/ref/task09_random_num_10_99.dll
+/home/noticed/Desktop/csharp/c_sharp/task09_random_num_10_99/bin/Debug/net6.0/task09_random_num_10_99.pdb
+/home/noticed/Desktop/csharp/c_sharp/task09_random_num_10_99/obj/Debug/net6.0/task09_random_num_10_99.dll
+/home/noticed/Desktop/csharp/c_sharp/task09_random_num_10_99/obj/Debug/net6.0/ref/task09_random_num_10_99.dll
+/home/noticed/Desktop/csharp/c_sharp/task09_random_num_10_99/obj/Debug/net6.0/task09_random_num_10_99.pdb
+/home/noticed/Desktop/csharp/c_sharp/task09_random_num_10_99/obj/Debug/net6.0/task09_random_num_10_99.genruntimeconfig.cache
