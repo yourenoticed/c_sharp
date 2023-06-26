@@ -1,0 +1,15 @@
+/home/noticed/Desktop/csharp/c_sharp/task16_is_square/bin/Debug/net6.0/task16_is_square
+/home/noticed/Desktop/csharp/c_sharp/task16_is_square/bin/Debug/net6.0/task16_is_square.deps.json
+/home/noticed/Desktop/csharp/c_sharp/task16_is_square/bin/Debug/net6.0/task16_is_square.runtimeconfig.json
+/home/noticed/Desktop/csharp/c_sharp/task16_is_square/bin/Debug/net6.0/task16_is_square.dll
+/home/noticed/Desktop/csharp/c_sharp/task16_is_square/bin/Debug/net6.0/ref/task16_is_square.dll
+/home/noticed/Desktop/csharp/c_sharp/task16_is_square/bin/Debug/net6.0/task16_is_square.pdb
+/home/noticed/Desktop/csharp/c_sharp/task16_is_square/obj/Debug/net6.0/task16_is_square.csproj.AssemblyReference.cache
+/home/noticed/Desktop/csharp/c_sharp/task16_is_square/obj/Debug/net6.0/task16_is_square.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/csharp/c_sharp/task16_is_square/obj/Debug/net6.0/task16_is_square.AssemblyInfoInputs.cache
+/home/noticed/Desktop/csharp/c_sharp/task16_is_square/obj/Debug/net6.0/task16_is_square.AssemblyInfo.cs
+/home/noticed/Desktop/csharp/c_sharp/task16_is_square/obj/Debug/net6.0/task16_is_square.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/csharp/c_sharp/task16_is_square/obj/Debug/net6.0/task16_is_square.dll
+/home/noticed/Desktop/csharp/c_sharp/task16_is_square/obj/Debug/net6.0/ref/task16_is_square.dll
+/home/noticed/Desktop/csharp/c_sharp/task16_is_square/obj/Debug/net6.0/task16_is_square.pdb
+/home/noticed/Desktop/csharp/c_sharp/task16_is_square/obj/Debug/net6.0/task16_is_square.genruntimeconfig.cache
