@@ -1,0 +1,15 @@
+/home/noticed/Desktop/csharp/c_sharp/task18_coordinates_range/bin/Debug/net6.0/task18_coordinates_range
+/home/noticed/Desktop/csharp/c_sharp/task18_coordinates_range/bin/Debug/net6.0/task18_coordinates_range.deps.json
+/home/noticed/Desktop/csharp/c_sharp/task18_coordinates_range/bin/Debug/net6.0/task18_coordinates_range.runtimeconfig.json
+/home/noticed/Desktop/csharp/c_sharp/task18_coordinates_range/bin/Debug/net6.0/task18_coordinates_range.dll
+/home/noticed/Desktop/csharp/c_sharp/task18_coordinates_range/bin/Debug/net6.0/ref/task18_coordinates_range.dll
+/home/noticed/Desktop/csharp/c_sharp/task18_coordinates_range/bin/Debug/net6.0/task18_coordinates_range.pdb
+/home/noticed/Desktop/csharp/c_sharp/task18_coordinates_range/obj/Debug/net6.0/task18_coordinates_range.csproj.AssemblyReference.cache
+/home/noticed/Desktop/csharp/c_sharp/task18_coordinates_range/obj/Debug/net6.0/task18_coordinates_range.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/csharp/c_sharp/task18_coordinates_range/obj/Debug/net6.0/task18_coordinates_range.AssemblyInfoInputs.cache
+/home/noticed/Desktop/csharp/c_sharp/task18_coordinates_range/obj/Debug/net6.0/task18_coordinates_range.AssemblyInfo.cs
+/home/noticed/Desktop/csharp/c_sharp/task18_coordinates_range/obj/Debug/net6.0/task18_coordinates_range.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/csharp/c_sharp/task18_coordinates_range/obj/Debug/net6.0/task18_coordinates_range.dll
+/home/noticed/Desktop/csharp/c_sharp/task18_coordinates_range/obj/Debug/net6.0/ref/task18_coordinates_range.dll
+/home/noticed/Desktop/csharp/c_sharp/task18_coordinates_range/obj/Debug/net6.0/task18_coordinates_range.pdb
+/home/noticed/Desktop/csharp/c_sharp/task18_coordinates_range/obj/Debug/net6.0/task18_coordinates_range.genruntimeconfig.cache

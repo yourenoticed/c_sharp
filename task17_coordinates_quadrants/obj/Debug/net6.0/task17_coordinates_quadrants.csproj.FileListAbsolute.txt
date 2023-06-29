@@ -1,0 +1,15 @@
+/home/noticed/Desktop/csharp/c_sharp/task17_coordinates_quadrants/obj/Debug/net6.0/task17_coordinates_quadrants.csproj.AssemblyReference.cache
+/home/noticed/Desktop/csharp/c_sharp/task17_coordinates_quadrants/obj/Debug/net6.0/task17_coordinates_quadrants.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/csharp/c_sharp/task17_coordinates_quadrants/obj/Debug/net6.0/task17_coordinates_quadrants.AssemblyInfoInputs.cache
+/home/noticed/Desktop/csharp/c_sharp/task17_coordinates_quadrants/obj/Debug/net6.0/task17_coordinates_quadrants.AssemblyInfo.cs
+/home/noticed/Desktop/csharp/c_sharp/task17_coordinates_quadrants/obj/Debug/net6.0/task17_coordinates_quadrants.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/csharp/c_sharp/task17_coordinates_quadrants/bin/Debug/net6.0/task17_coordinates_quadrants
+/home/noticed/Desktop/csharp/c_sharp/task17_coordinates_quadrants/bin/Debug/net6.0/task17_coordinates_quadrants.deps.json
+/home/noticed/Desktop/csharp/c_sharp/task17_coordinates_quadrants/bin/Debug/net6.0/task17_coordinates_quadrants.runtimeconfig.json
+/home/noticed/Desktop/csharp/c_sharp/task17_coordinates_quadrants/bin/Debug/net6.0/task17_coordinates_quadrants.dll
+/home/noticed/Desktop/csharp/c_sharp/task17_coordinates_quadrants/bin/Debug/net6.0/ref/task17_coordinates_quadrants.dll
+/home/noticed/Desktop/csharp/c_sharp/task17_coordinates_quadrants/bin/Debug/net6.0/task17_coordinates_quadrants.pdb
+/home/noticed/Desktop/csharp/c_sharp/task17_coordinates_quadrants/obj/Debug/net6.0/task17_coordinates_quadrants.dll
+/home/noticed/Desktop/csharp/c_sharp/task17_coordinates_quadrants/obj/Debug/net6.0/ref/task17_coordinates_quadrants.dll
+/home/noticed/Desktop/csharp/c_sharp/task17_coordinates_quadrants/obj/Debug/net6.0/task17_coordinates_quadrants.pdb
+/home/noticed/Desktop/csharp/c_sharp/task17_coordinates_quadrants/obj/Debug/net6.0/task17_coordinates_quadrants.genruntimeconfig.cache

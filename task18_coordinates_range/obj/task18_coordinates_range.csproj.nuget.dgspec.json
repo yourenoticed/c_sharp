@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/noticed/Desktop/csharp/c_sharp/task00_square_of_num/task00_square_of_num.csproj": {}
+    "/home/noticed/Desktop/csharp/c_sharp/task18_coordinates_range/task18_coordinates_range.csproj": {}
   },
   "projects": {
-    "/home/noticed/Desktop/csharp/c_sharp/task00_square_of_num/task00_square_of_num.csproj": {
+    "/home/noticed/Desktop/csharp/c_sharp/task18_coordinates_range/task18_coordinates_range.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/noticed/Desktop/csharp/c_sharp/task00_square_of_num/task00_square_of_num.csproj",
-        "projectName": "task00_square_of_num",
-        "projectPath": "/home/noticed/Desktop/csharp/c_sharp/task00_square_of_num/task00_square_of_num.csproj",
+        "projectUniqueName": "/home/noticed/Desktop/csharp/c_sharp/task18_coordinates_range/task18_coordinates_range.csproj",
+        "projectName": "task18_coordinates_range",
+        "projectPath": "/home/noticed/Desktop/csharp/c_sharp/task18_coordinates_range/task18_coordinates_range.csproj",
         "packagesPath": "/home/noticed/.nuget/packages/",
-        "outputPath": "/home/noticed/Desktop/csharp/c_sharp/task00_square_of_num/obj/",
+        "outputPath": "/home/noticed/Desktop/csharp/c_sharp/task18_coordinates_range/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/noticed/.nuget/NuGet/NuGet.Config"
