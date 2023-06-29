@@ -1,0 +1,15 @@
+/home/noticed/Desktop/csharp/c_sharp/hw19_is_palindrome/obj/Debug/net6.0/hw19_is_palindrome.csproj.AssemblyReference.cache
+/home/noticed/Desktop/csharp/c_sharp/hw19_is_palindrome/obj/Debug/net6.0/hw19_is_palindrome.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/csharp/c_sharp/hw19_is_palindrome/obj/Debug/net6.0/hw19_is_palindrome.AssemblyInfoInputs.cache
+/home/noticed/Desktop/csharp/c_sharp/hw19_is_palindrome/obj/Debug/net6.0/hw19_is_palindrome.AssemblyInfo.cs
+/home/noticed/Desktop/csharp/c_sharp/hw19_is_palindrome/obj/Debug/net6.0/hw19_is_palindrome.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/csharp/c_sharp/hw19_is_palindrome/bin/Debug/net6.0/hw19_is_palindrome
+/home/noticed/Desktop/csharp/c_sharp/hw19_is_palindrome/bin/Debug/net6.0/hw19_is_palindrome.deps.json
+/home/noticed/Desktop/csharp/c_sharp/hw19_is_palindrome/bin/Debug/net6.0/hw19_is_palindrome.runtimeconfig.json
+/home/noticed/Desktop/csharp/c_sharp/hw19_is_palindrome/bin/Debug/net6.0/hw19_is_palindrome.dll
+/home/noticed/Desktop/csharp/c_sharp/hw19_is_palindrome/bin/Debug/net6.0/ref/hw19_is_palindrome.dll
+/home/noticed/Desktop/csharp/c_sharp/hw19_is_palindrome/bin/Debug/net6.0/hw19_is_palindrome.pdb
+/home/noticed/Desktop/csharp/c_sharp/hw19_is_palindrome/obj/Debug/net6.0/hw19_is_palindrome.dll
+/home/noticed/Desktop/csharp/c_sharp/hw19_is_palindrome/obj/Debug/net6.0/ref/hw19_is_palindrome.dll
+/home/noticed/Desktop/csharp/c_sharp/hw19_is_palindrome/obj/Debug/net6.0/hw19_is_palindrome.pdb
+/home/noticed/Desktop/csharp/c_sharp/hw19_is_palindrome/obj/Debug/net6.0/hw19_is_palindrome.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "hw21_3D_distance/1.0.0": {
+        "runtime": {
+          "hw21_3D_distance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hw21_3D_distance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

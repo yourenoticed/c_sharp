@@ -1,0 +1,15 @@
+/home/noticed/Desktop/csharp/c_sharp/hw21_3D_distance/bin/Debug/net6.0/hw21_3D_distance
+/home/noticed/Desktop/csharp/c_sharp/hw21_3D_distance/bin/Debug/net6.0/hw21_3D_distance.deps.json
+/home/noticed/Desktop/csharp/c_sharp/hw21_3D_distance/bin/Debug/net6.0/hw21_3D_distance.runtimeconfig.json
+/home/noticed/Desktop/csharp/c_sharp/hw21_3D_distance/bin/Debug/net6.0/hw21_3D_distance.dll
+/home/noticed/Desktop/csharp/c_sharp/hw21_3D_distance/bin/Debug/net6.0/ref/hw21_3D_distance.dll
+/home/noticed/Desktop/csharp/c_sharp/hw21_3D_distance/bin/Debug/net6.0/hw21_3D_distance.pdb
+/home/noticed/Desktop/csharp/c_sharp/hw21_3D_distance/obj/Debug/net6.0/hw21_3D_distance.csproj.AssemblyReference.cache
+/home/noticed/Desktop/csharp/c_sharp/hw21_3D_distance/obj/Debug/net6.0/hw21_3D_distance.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/csharp/c_sharp/hw21_3D_distance/obj/Debug/net6.0/hw21_3D_distance.AssemblyInfoInputs.cache
+/home/noticed/Desktop/csharp/c_sharp/hw21_3D_distance/obj/Debug/net6.0/hw21_3D_distance.AssemblyInfo.cs
+/home/noticed/Desktop/csharp/c_sharp/hw21_3D_distance/obj/Debug/net6.0/hw21_3D_distance.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/csharp/c_sharp/hw21_3D_distance/obj/Debug/net6.0/hw21_3D_distance.dll
+/home/noticed/Desktop/csharp/c_sharp/hw21_3D_distance/obj/Debug/net6.0/ref/hw21_3D_distance.dll
+/home/noticed/Desktop/csharp/c_sharp/hw21_3D_distance/obj/Debug/net6.0/hw21_3D_distance.pdb
+/home/noticed/Desktop/csharp/c_sharp/hw21_3D_distance/obj/Debug/net6.0/hw21_3D_distance.genruntimeconfig.cache

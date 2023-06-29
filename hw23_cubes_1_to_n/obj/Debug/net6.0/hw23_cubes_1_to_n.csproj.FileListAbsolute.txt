@@ -1,0 +1,15 @@
+/home/noticed/Desktop/csharp/c_sharp/hw23_cubes_1_to_n/bin/Debug/net6.0/hw23_cubes_1_to_n
+/home/noticed/Desktop/csharp/c_sharp/hw23_cubes_1_to_n/bin/Debug/net6.0/hw23_cubes_1_to_n.deps.json
+/home/noticed/Desktop/csharp/c_sharp/hw23_cubes_1_to_n/bin/Debug/net6.0/hw23_cubes_1_to_n.runtimeconfig.json
+/home/noticed/Desktop/csharp/c_sharp/hw23_cubes_1_to_n/bin/Debug/net6.0/hw23_cubes_1_to_n.dll
+/home/noticed/Desktop/csharp/c_sharp/hw23_cubes_1_to_n/bin/Debug/net6.0/ref/hw23_cubes_1_to_n.dll
+/home/noticed/Desktop/csharp/c_sharp/hw23_cubes_1_to_n/bin/Debug/net6.0/hw23_cubes_1_to_n.pdb
+/home/noticed/Desktop/csharp/c_sharp/hw23_cubes_1_to_n/obj/Debug/net6.0/hw23_cubes_1_to_n.csproj.AssemblyReference.cache
+/home/noticed/Desktop/csharp/c_sharp/hw23_cubes_1_to_n/obj/Debug/net6.0/hw23_cubes_1_to_n.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/csharp/c_sharp/hw23_cubes_1_to_n/obj/Debug/net6.0/hw23_cubes_1_to_n.AssemblyInfoInputs.cache
+/home/noticed/Desktop/csharp/c_sharp/hw23_cubes_1_to_n/obj/Debug/net6.0/hw23_cubes_1_to_n.AssemblyInfo.cs
+/home/noticed/Desktop/csharp/c_sharp/hw23_cubes_1_to_n/obj/Debug/net6.0/hw23_cubes_1_to_n.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/csharp/c_sharp/hw23_cubes_1_to_n/obj/Debug/net6.0/hw23_cubes_1_to_n.dll
+/home/noticed/Desktop/csharp/c_sharp/hw23_cubes_1_to_n/obj/Debug/net6.0/ref/hw23_cubes_1_to_n.dll
+/home/noticed/Desktop/csharp/c_sharp/hw23_cubes_1_to_n/obj/Debug/net6.0/hw23_cubes_1_to_n.pdb
+/home/noticed/Desktop/csharp/c_sharp/hw23_cubes_1_to_n/obj/Debug/net6.0/hw23_cubes_1_to_n.genruntimeconfig.cache
