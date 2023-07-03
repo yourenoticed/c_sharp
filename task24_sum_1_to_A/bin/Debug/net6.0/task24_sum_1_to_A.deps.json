@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task24_sum_1_to_A/1.0.0": {
+        "runtime": {
+          "task24_sum_1_to_A.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task24_sum_1_to_A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

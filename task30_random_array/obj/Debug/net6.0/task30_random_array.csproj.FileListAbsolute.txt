@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/task30_random_array/obj/Debug/net6.0/task30_random_array.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/task30_random_array/obj/Debug/net6.0/task30_random_array.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/task30_random_array/obj/Debug/net6.0/task30_random_array.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/task30_random_array/obj/Debug/net6.0/task30_random_array.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/task30_random_array/obj/Debug/net6.0/task30_random_array.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/task30_random_array/bin/Debug/net6.0/task30_random_array
+/home/noticed/Desktop/c_sharp/task30_random_array/bin/Debug/net6.0/task30_random_array.deps.json
+/home/noticed/Desktop/c_sharp/task30_random_array/bin/Debug/net6.0/task30_random_array.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/task30_random_array/bin/Debug/net6.0/task30_random_array.dll
+/home/noticed/Desktop/c_sharp/task30_random_array/bin/Debug/net6.0/ref/task30_random_array.dll
+/home/noticed/Desktop/c_sharp/task30_random_array/bin/Debug/net6.0/task30_random_array.pdb
+/home/noticed/Desktop/c_sharp/task30_random_array/obj/Debug/net6.0/task30_random_array.dll
+/home/noticed/Desktop/c_sharp/task30_random_array/obj/Debug/net6.0/ref/task30_random_array.dll
+/home/noticed/Desktop/c_sharp/task30_random_array/obj/Debug/net6.0/task30_random_array.pdb
+/home/noticed/Desktop/c_sharp/task30_random_array/obj/Debug/net6.0/task30_random_array.genruntimeconfig.cache

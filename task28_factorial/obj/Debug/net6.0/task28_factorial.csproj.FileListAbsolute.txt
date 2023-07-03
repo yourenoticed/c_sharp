@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/task28_factorial/bin/Debug/net6.0/task28_factorial
+/home/noticed/Desktop/c_sharp/task28_factorial/bin/Debug/net6.0/task28_factorial.deps.json
+/home/noticed/Desktop/c_sharp/task28_factorial/bin/Debug/net6.0/task28_factorial.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/task28_factorial/bin/Debug/net6.0/task28_factorial.dll
+/home/noticed/Desktop/c_sharp/task28_factorial/bin/Debug/net6.0/ref/task28_factorial.dll
+/home/noticed/Desktop/c_sharp/task28_factorial/bin/Debug/net6.0/task28_factorial.pdb
+/home/noticed/Desktop/c_sharp/task28_factorial/obj/Debug/net6.0/task28_factorial.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/task28_factorial/obj/Debug/net6.0/task28_factorial.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/task28_factorial/obj/Debug/net6.0/task28_factorial.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/task28_factorial/obj/Debug/net6.0/task28_factorial.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/task28_factorial/obj/Debug/net6.0/task28_factorial.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/task28_factorial/obj/Debug/net6.0/task28_factorial.dll
+/home/noticed/Desktop/c_sharp/task28_factorial/obj/Debug/net6.0/ref/task28_factorial.dll
+/home/noticed/Desktop/c_sharp/task28_factorial/obj/Debug/net6.0/task28_factorial.pdb
+/home/noticed/Desktop/c_sharp/task28_factorial/obj/Debug/net6.0/task28_factorial.genruntimeconfig.cache

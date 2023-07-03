@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/task24_sum_1_to_A/obj/Debug/net6.0/task24_sum_1_to_A.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/task24_sum_1_to_A/obj/Debug/net6.0/task24_sum_1_to_A.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/task24_sum_1_to_A/obj/Debug/net6.0/task24_sum_1_to_A.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/task24_sum_1_to_A/obj/Debug/net6.0/task24_sum_1_to_A.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/task24_sum_1_to_A/obj/Debug/net6.0/task24_sum_1_to_A.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/task24_sum_1_to_A/bin/Debug/net6.0/task24_sum_1_to_A
+/home/noticed/Desktop/c_sharp/task24_sum_1_to_A/bin/Debug/net6.0/task24_sum_1_to_A.deps.json
+/home/noticed/Desktop/c_sharp/task24_sum_1_to_A/bin/Debug/net6.0/task24_sum_1_to_A.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/task24_sum_1_to_A/bin/Debug/net6.0/task24_sum_1_to_A.dll
+/home/noticed/Desktop/c_sharp/task24_sum_1_to_A/bin/Debug/net6.0/ref/task24_sum_1_to_A.dll
+/home/noticed/Desktop/c_sharp/task24_sum_1_to_A/bin/Debug/net6.0/task24_sum_1_to_A.pdb
+/home/noticed/Desktop/c_sharp/task24_sum_1_to_A/obj/Debug/net6.0/task24_sum_1_to_A.dll
+/home/noticed/Desktop/c_sharp/task24_sum_1_to_A/obj/Debug/net6.0/ref/task24_sum_1_to_A.dll
+/home/noticed/Desktop/c_sharp/task24_sum_1_to_A/obj/Debug/net6.0/task24_sum_1_to_A.pdb
+/home/noticed/Desktop/c_sharp/task24_sum_1_to_A/obj/Debug/net6.0/task24_sum_1_to_A.genruntimeconfig.cache
