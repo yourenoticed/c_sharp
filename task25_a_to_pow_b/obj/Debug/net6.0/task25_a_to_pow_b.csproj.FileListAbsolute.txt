@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/task25_a_to_pow_b/bin/Debug/net6.0/task25_a_to_pow_b
+/home/noticed/Desktop/c_sharp/task25_a_to_pow_b/bin/Debug/net6.0/task25_a_to_pow_b.deps.json
+/home/noticed/Desktop/c_sharp/task25_a_to_pow_b/bin/Debug/net6.0/task25_a_to_pow_b.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/task25_a_to_pow_b/bin/Debug/net6.0/task25_a_to_pow_b.dll
+/home/noticed/Desktop/c_sharp/task25_a_to_pow_b/bin/Debug/net6.0/ref/task25_a_to_pow_b.dll
+/home/noticed/Desktop/c_sharp/task25_a_to_pow_b/bin/Debug/net6.0/task25_a_to_pow_b.pdb
+/home/noticed/Desktop/c_sharp/task25_a_to_pow_b/obj/Debug/net6.0/task25_a_to_pow_b.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/task25_a_to_pow_b/obj/Debug/net6.0/task25_a_to_pow_b.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/task25_a_to_pow_b/obj/Debug/net6.0/task25_a_to_pow_b.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/task25_a_to_pow_b/obj/Debug/net6.0/task25_a_to_pow_b.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/task25_a_to_pow_b/obj/Debug/net6.0/task25_a_to_pow_b.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/task25_a_to_pow_b/obj/Debug/net6.0/task25_a_to_pow_b.dll
+/home/noticed/Desktop/c_sharp/task25_a_to_pow_b/obj/Debug/net6.0/ref/task25_a_to_pow_b.dll
+/home/noticed/Desktop/c_sharp/task25_a_to_pow_b/obj/Debug/net6.0/task25_a_to_pow_b.pdb
+/home/noticed/Desktop/c_sharp/task25_a_to_pow_b/obj/Debug/net6.0/task25_a_to_pow_b.genruntimeconfig.cache

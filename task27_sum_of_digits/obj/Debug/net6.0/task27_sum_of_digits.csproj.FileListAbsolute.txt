@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/task27_sum_of_digits/bin/Debug/net6.0/task27_sum_of_digits
+/home/noticed/Desktop/c_sharp/task27_sum_of_digits/bin/Debug/net6.0/task27_sum_of_digits.deps.json
+/home/noticed/Desktop/c_sharp/task27_sum_of_digits/bin/Debug/net6.0/task27_sum_of_digits.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/task27_sum_of_digits/bin/Debug/net6.0/task27_sum_of_digits.dll
+/home/noticed/Desktop/c_sharp/task27_sum_of_digits/bin/Debug/net6.0/ref/task27_sum_of_digits.dll
+/home/noticed/Desktop/c_sharp/task27_sum_of_digits/bin/Debug/net6.0/task27_sum_of_digits.pdb
+/home/noticed/Desktop/c_sharp/task27_sum_of_digits/obj/Debug/net6.0/task27_sum_of_digits.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/task27_sum_of_digits/obj/Debug/net6.0/task27_sum_of_digits.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/task27_sum_of_digits/obj/Debug/net6.0/task27_sum_of_digits.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/task27_sum_of_digits/obj/Debug/net6.0/task27_sum_of_digits.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/task27_sum_of_digits/obj/Debug/net6.0/task27_sum_of_digits.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/task27_sum_of_digits/obj/Debug/net6.0/task27_sum_of_digits.dll
+/home/noticed/Desktop/c_sharp/task27_sum_of_digits/obj/Debug/net6.0/ref/task27_sum_of_digits.dll
+/home/noticed/Desktop/c_sharp/task27_sum_of_digits/obj/Debug/net6.0/task27_sum_of_digits.pdb
+/home/noticed/Desktop/c_sharp/task27_sum_of_digits/obj/Debug/net6.0/task27_sum_of_digits.genruntimeconfig.cache

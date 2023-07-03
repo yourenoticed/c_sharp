@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/task29_fill_array/obj/Debug/net6.0/task29_fill_array.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/task29_fill_array/obj/Debug/net6.0/task29_fill_array.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/task29_fill_array/obj/Debug/net6.0/task29_fill_array.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/task29_fill_array/obj/Debug/net6.0/task29_fill_array.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/task29_fill_array/obj/Debug/net6.0/task29_fill_array.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/task29_fill_array/bin/Debug/net6.0/task29_fill_array
+/home/noticed/Desktop/c_sharp/task29_fill_array/bin/Debug/net6.0/task29_fill_array.deps.json
+/home/noticed/Desktop/c_sharp/task29_fill_array/bin/Debug/net6.0/task29_fill_array.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/task29_fill_array/bin/Debug/net6.0/task29_fill_array.dll
+/home/noticed/Desktop/c_sharp/task29_fill_array/bin/Debug/net6.0/ref/task29_fill_array.dll
+/home/noticed/Desktop/c_sharp/task29_fill_array/bin/Debug/net6.0/task29_fill_array.pdb
+/home/noticed/Desktop/c_sharp/task29_fill_array/obj/Debug/net6.0/task29_fill_array.dll
+/home/noticed/Desktop/c_sharp/task29_fill_array/obj/Debug/net6.0/ref/task29_fill_array.dll
+/home/noticed/Desktop/c_sharp/task29_fill_array/obj/Debug/net6.0/task29_fill_array.pdb
+/home/noticed/Desktop/c_sharp/task29_fill_array/obj/Debug/net6.0/task29_fill_array.genruntimeconfig.cache
