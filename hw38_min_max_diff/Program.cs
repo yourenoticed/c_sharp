@@ -1,9 +1,9 @@
-﻿double[] FillArray(int size, int start, int end) // also prints it out
+﻿double[] FillArray(int size, double start, double end) // also prints it out
 {
     double[] result = new double[size];
     for (int i = 0; i < size; i++)
     {
-        result[i] = new Random().Next(start, end + 1);
+        result[i] = (new Random().NextDouble() * (end - start)) + start;
     }
     PrintArray(result);
     return result;
@@ -37,4 +37,4 @@ double MaxMinDifference(double[] array)
     return max - min;
 }
 
-Console.WriteLine($"The difference between the maximum and minimum value of the array is {MaxMinDifference(FillArray(15, -10, 58))}");
+Console.WriteLine($"The difference between the maximum and minimum value of the array is {MaxMinDifference(FillArray(15, -1.6, 5.8))}");
