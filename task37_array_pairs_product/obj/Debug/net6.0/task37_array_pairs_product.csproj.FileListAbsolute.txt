@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/task37_array_pairs_product/obj/Debug/net6.0/task37_array_pairs_product.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/task37_array_pairs_product/obj/Debug/net6.0/task37_array_pairs_product.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/task37_array_pairs_product/obj/Debug/net6.0/task37_array_pairs_product.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/task37_array_pairs_product/obj/Debug/net6.0/task37_array_pairs_product.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/task37_array_pairs_product/obj/Debug/net6.0/task37_array_pairs_product.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/task37_array_pairs_product/bin/Debug/net6.0/task37_array_pairs_product
+/home/noticed/Desktop/c_sharp/task37_array_pairs_product/bin/Debug/net6.0/task37_array_pairs_product.deps.json
+/home/noticed/Desktop/c_sharp/task37_array_pairs_product/bin/Debug/net6.0/task37_array_pairs_product.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/task37_array_pairs_product/bin/Debug/net6.0/task37_array_pairs_product.dll
+/home/noticed/Desktop/c_sharp/task37_array_pairs_product/bin/Debug/net6.0/ref/task37_array_pairs_product.dll
+/home/noticed/Desktop/c_sharp/task37_array_pairs_product/bin/Debug/net6.0/task37_array_pairs_product.pdb
+/home/noticed/Desktop/c_sharp/task37_array_pairs_product/obj/Debug/net6.0/task37_array_pairs_product.dll
+/home/noticed/Desktop/c_sharp/task37_array_pairs_product/obj/Debug/net6.0/ref/task37_array_pairs_product.dll
+/home/noticed/Desktop/c_sharp/task37_array_pairs_product/obj/Debug/net6.0/task37_array_pairs_product.pdb
+/home/noticed/Desktop/c_sharp/task37_array_pairs_product/obj/Debug/net6.0/task37_array_pairs_product.genruntimeconfig.cache

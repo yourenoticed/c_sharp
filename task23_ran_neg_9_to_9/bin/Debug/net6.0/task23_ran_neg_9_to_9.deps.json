@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task23_ran_neg_9_to_9/1.0.0": {
+        "runtime": {
+          "task23_ran_neg_9_to_9.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task23_ran_neg_9_to_9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/task23_ran_neg_9_to_9/obj/Debug/net6.0/task23_ran_neg_9_to_9.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/task23_ran_neg_9_to_9/obj/Debug/net6.0/task23_ran_neg_9_to_9.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/task23_ran_neg_9_to_9/obj/Debug/net6.0/task23_ran_neg_9_to_9.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/task23_ran_neg_9_to_9/obj/Debug/net6.0/task23_ran_neg_9_to_9.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/task23_ran_neg_9_to_9/obj/Debug/net6.0/task23_ran_neg_9_to_9.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/task23_ran_neg_9_to_9/bin/Debug/net6.0/task23_ran_neg_9_to_9
+/home/noticed/Desktop/c_sharp/task23_ran_neg_9_to_9/bin/Debug/net6.0/task23_ran_neg_9_to_9.deps.json
+/home/noticed/Desktop/c_sharp/task23_ran_neg_9_to_9/bin/Debug/net6.0/task23_ran_neg_9_to_9.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/task23_ran_neg_9_to_9/bin/Debug/net6.0/task23_ran_neg_9_to_9.dll
+/home/noticed/Desktop/c_sharp/task23_ran_neg_9_to_9/bin/Debug/net6.0/ref/task23_ran_neg_9_to_9.dll
+/home/noticed/Desktop/c_sharp/task23_ran_neg_9_to_9/bin/Debug/net6.0/task23_ran_neg_9_to_9.pdb
+/home/noticed/Desktop/c_sharp/task23_ran_neg_9_to_9/obj/Debug/net6.0/task23_ran_neg_9_to_9.dll
+/home/noticed/Desktop/c_sharp/task23_ran_neg_9_to_9/obj/Debug/net6.0/ref/task23_ran_neg_9_to_9.dll
+/home/noticed/Desktop/c_sharp/task23_ran_neg_9_to_9/obj/Debug/net6.0/task23_ran_neg_9_to_9.pdb
+/home/noticed/Desktop/c_sharp/task23_ran_neg_9_to_9/obj/Debug/net6.0/task23_ran_neg_9_to_9.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "hw36_sum_of_odd_ind/1.0.0": {
+        "runtime": {
+          "hw36_sum_of_odd_ind.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hw36_sum_of_odd_ind/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

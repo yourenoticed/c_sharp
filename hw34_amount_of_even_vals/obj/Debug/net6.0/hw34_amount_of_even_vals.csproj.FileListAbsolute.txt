@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/hw34_amount_of_even_vals/obj/Debug/net6.0/hw34_amount_of_even_vals.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/hw34_amount_of_even_vals/obj/Debug/net6.0/hw34_amount_of_even_vals.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/hw34_amount_of_even_vals/obj/Debug/net6.0/hw34_amount_of_even_vals.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/hw34_amount_of_even_vals/obj/Debug/net6.0/hw34_amount_of_even_vals.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/hw34_amount_of_even_vals/obj/Debug/net6.0/hw34_amount_of_even_vals.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/hw34_amount_of_even_vals/bin/Debug/net6.0/hw34_amount_of_even_vals
+/home/noticed/Desktop/c_sharp/hw34_amount_of_even_vals/bin/Debug/net6.0/hw34_amount_of_even_vals.deps.json
+/home/noticed/Desktop/c_sharp/hw34_amount_of_even_vals/bin/Debug/net6.0/hw34_amount_of_even_vals.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/hw34_amount_of_even_vals/bin/Debug/net6.0/hw34_amount_of_even_vals.dll
+/home/noticed/Desktop/c_sharp/hw34_amount_of_even_vals/bin/Debug/net6.0/ref/hw34_amount_of_even_vals.dll
+/home/noticed/Desktop/c_sharp/hw34_amount_of_even_vals/bin/Debug/net6.0/hw34_amount_of_even_vals.pdb
+/home/noticed/Desktop/c_sharp/hw34_amount_of_even_vals/obj/Debug/net6.0/hw34_amount_of_even_vals.dll
+/home/noticed/Desktop/c_sharp/hw34_amount_of_even_vals/obj/Debug/net6.0/ref/hw34_amount_of_even_vals.dll
+/home/noticed/Desktop/c_sharp/hw34_amount_of_even_vals/obj/Debug/net6.0/hw34_amount_of_even_vals.pdb
+/home/noticed/Desktop/c_sharp/hw34_amount_of_even_vals/obj/Debug/net6.0/hw34_amount_of_even_vals.genruntimeconfig.cache

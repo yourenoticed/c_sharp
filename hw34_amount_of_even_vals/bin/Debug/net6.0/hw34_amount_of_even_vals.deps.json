@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "hw34_amount_of_even_vals/1.0.0": {
+        "runtime": {
+          "hw34_amount_of_even_vals.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hw34_amount_of_even_vals/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

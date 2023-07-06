@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task35_amount_in_range/1.0.0": {
+        "runtime": {
+          "task35_amount_in_range.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task35_amount_in_range/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/task33_is_in_array/bin/Debug/net6.0/task33_is_in_array
+/home/noticed/Desktop/c_sharp/task33_is_in_array/bin/Debug/net6.0/task33_is_in_array.deps.json
+/home/noticed/Desktop/c_sharp/task33_is_in_array/bin/Debug/net6.0/task33_is_in_array.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/task33_is_in_array/bin/Debug/net6.0/task33_is_in_array.dll
+/home/noticed/Desktop/c_sharp/task33_is_in_array/bin/Debug/net6.0/ref/task33_is_in_array.dll
+/home/noticed/Desktop/c_sharp/task33_is_in_array/bin/Debug/net6.0/task33_is_in_array.pdb
+/home/noticed/Desktop/c_sharp/task33_is_in_array/obj/Debug/net6.0/task33_is_in_array.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/task33_is_in_array/obj/Debug/net6.0/task33_is_in_array.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/task33_is_in_array/obj/Debug/net6.0/task33_is_in_array.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/task33_is_in_array/obj/Debug/net6.0/task33_is_in_array.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/task33_is_in_array/obj/Debug/net6.0/task33_is_in_array.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/task33_is_in_array/obj/Debug/net6.0/task33_is_in_array.dll
+/home/noticed/Desktop/c_sharp/task33_is_in_array/obj/Debug/net6.0/ref/task33_is_in_array.dll
+/home/noticed/Desktop/c_sharp/task33_is_in_array/obj/Debug/net6.0/task33_is_in_array.pdb
+/home/noticed/Desktop/c_sharp/task33_is_in_array/obj/Debug/net6.0/task33_is_in_array.genruntimeconfig.cache

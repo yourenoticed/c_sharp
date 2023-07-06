@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/task32_neg_to_pos/bin/Debug/net6.0/task32_neg_to_pos
+/home/noticed/Desktop/c_sharp/task32_neg_to_pos/bin/Debug/net6.0/task32_neg_to_pos.deps.json
+/home/noticed/Desktop/c_sharp/task32_neg_to_pos/bin/Debug/net6.0/task32_neg_to_pos.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/task32_neg_to_pos/bin/Debug/net6.0/task32_neg_to_pos.dll
+/home/noticed/Desktop/c_sharp/task32_neg_to_pos/bin/Debug/net6.0/ref/task32_neg_to_pos.dll
+/home/noticed/Desktop/c_sharp/task32_neg_to_pos/bin/Debug/net6.0/task32_neg_to_pos.pdb
+/home/noticed/Desktop/c_sharp/task32_neg_to_pos/obj/Debug/net6.0/task32_neg_to_pos.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/task32_neg_to_pos/obj/Debug/net6.0/task32_neg_to_pos.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/task32_neg_to_pos/obj/Debug/net6.0/task32_neg_to_pos.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/task32_neg_to_pos/obj/Debug/net6.0/task32_neg_to_pos.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/task32_neg_to_pos/obj/Debug/net6.0/task32_neg_to_pos.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/task32_neg_to_pos/obj/Debug/net6.0/task32_neg_to_pos.dll
+/home/noticed/Desktop/c_sharp/task32_neg_to_pos/obj/Debug/net6.0/ref/task32_neg_to_pos.dll
+/home/noticed/Desktop/c_sharp/task32_neg_to_pos/obj/Debug/net6.0/task32_neg_to_pos.pdb
+/home/noticed/Desktop/c_sharp/task32_neg_to_pos/obj/Debug/net6.0/task32_neg_to_pos.genruntimeconfig.cache

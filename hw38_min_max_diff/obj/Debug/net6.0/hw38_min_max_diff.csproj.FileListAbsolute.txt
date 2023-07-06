@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/hw38_min_max_diff/obj/Debug/net6.0/hw38_min_max_diff.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/hw38_min_max_diff/obj/Debug/net6.0/hw38_min_max_diff.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/hw38_min_max_diff/obj/Debug/net6.0/hw38_min_max_diff.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/hw38_min_max_diff/obj/Debug/net6.0/hw38_min_max_diff.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/hw38_min_max_diff/obj/Debug/net6.0/hw38_min_max_diff.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/hw38_min_max_diff/bin/Debug/net6.0/hw38_min_max_diff
+/home/noticed/Desktop/c_sharp/hw38_min_max_diff/bin/Debug/net6.0/hw38_min_max_diff.deps.json
+/home/noticed/Desktop/c_sharp/hw38_min_max_diff/bin/Debug/net6.0/hw38_min_max_diff.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/hw38_min_max_diff/bin/Debug/net6.0/hw38_min_max_diff.dll
+/home/noticed/Desktop/c_sharp/hw38_min_max_diff/bin/Debug/net6.0/ref/hw38_min_max_diff.dll
+/home/noticed/Desktop/c_sharp/hw38_min_max_diff/bin/Debug/net6.0/hw38_min_max_diff.pdb
+/home/noticed/Desktop/c_sharp/hw38_min_max_diff/obj/Debug/net6.0/hw38_min_max_diff.dll
+/home/noticed/Desktop/c_sharp/hw38_min_max_diff/obj/Debug/net6.0/ref/hw38_min_max_diff.dll
+/home/noticed/Desktop/c_sharp/hw38_min_max_diff/obj/Debug/net6.0/hw38_min_max_diff.pdb
+/home/noticed/Desktop/c_sharp/hw38_min_max_diff/obj/Debug/net6.0/hw38_min_max_diff.genruntimeconfig.cache

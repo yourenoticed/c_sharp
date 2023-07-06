@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/hw36_sum_of_odd_ind/bin/Debug/net6.0/hw36_sum_of_odd_ind
+/home/noticed/Desktop/c_sharp/hw36_sum_of_odd_ind/bin/Debug/net6.0/hw36_sum_of_odd_ind.deps.json
+/home/noticed/Desktop/c_sharp/hw36_sum_of_odd_ind/bin/Debug/net6.0/hw36_sum_of_odd_ind.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/hw36_sum_of_odd_ind/bin/Debug/net6.0/hw36_sum_of_odd_ind.dll
+/home/noticed/Desktop/c_sharp/hw36_sum_of_odd_ind/bin/Debug/net6.0/ref/hw36_sum_of_odd_ind.dll
+/home/noticed/Desktop/c_sharp/hw36_sum_of_odd_ind/bin/Debug/net6.0/hw36_sum_of_odd_ind.pdb
+/home/noticed/Desktop/c_sharp/hw36_sum_of_odd_ind/obj/Debug/net6.0/hw36_sum_of_odd_ind.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/hw36_sum_of_odd_ind/obj/Debug/net6.0/hw36_sum_of_odd_ind.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/hw36_sum_of_odd_ind/obj/Debug/net6.0/hw36_sum_of_odd_ind.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/hw36_sum_of_odd_ind/obj/Debug/net6.0/hw36_sum_of_odd_ind.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/hw36_sum_of_odd_ind/obj/Debug/net6.0/hw36_sum_of_odd_ind.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/hw36_sum_of_odd_ind/obj/Debug/net6.0/hw36_sum_of_odd_ind.dll
+/home/noticed/Desktop/c_sharp/hw36_sum_of_odd_ind/obj/Debug/net6.0/ref/hw36_sum_of_odd_ind.dll
+/home/noticed/Desktop/c_sharp/hw36_sum_of_odd_ind/obj/Debug/net6.0/hw36_sum_of_odd_ind.pdb
+/home/noticed/Desktop/c_sharp/hw36_sum_of_odd_ind/obj/Debug/net6.0/hw36_sum_of_odd_ind.genruntimeconfig.cache
