@@ -37,4 +37,4 @@ double MaxMinDifference(double[] array)
     return max - min;
 }
 
-Console.WriteLine($"The difference between the maximum and minimum value of the array is {MaxMinDifference(FillArray(15, -1.6, 5.8))}");
+Console.WriteLine($"The difference between the maximum and minimum value of the array is {MaxMinDifference(FillArray(15, 30, 70))}");
