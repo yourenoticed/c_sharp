@@ -1,4 +1,4 @@
-﻿int[] IntersectionPoint(int b1, int k1, int b2, int k2)
+﻿int[] IntersectionPoint(int b1, int k1, int b2, int k2) // NOTE y = k1/k2 * x + b1/b2, NOT y = b1/b2 * x + k1/k2
 {
     int intersectionX = (b2 - b1) / (k1 - k2);
     int intersectionY = k1 * intersectionX + b1;
