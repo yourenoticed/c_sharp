@@ -2,7 +2,7 @@
 while (true)
 {
     int enteredText = 0;
-    System.Console.Write("Enter an integer number (or anything to quit): ");
+    System.Console.Write("Enter an integer number (or anything else to quit): ");
     try
     {
         enteredText = Convert.ToInt32(Console.ReadLine());
