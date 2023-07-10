@@ -1,18 +1,21 @@
-﻿int count = 0;
-while (true)
+﻿int AmountOfPositiveEnteredNums()
 {
-    int enteredText = 0;
-    System.Console.Write("Enter an integer number (or anything else to quit): ");
-    try
+    int count = 0;
+    while (true)
     {
-        enteredText = Convert.ToInt32(Console.ReadLine());
+        int enteredText = 0;
+        System.Console.Write("Enter an integer number (or anything else to quit): ");
+        try
+        {
+            enteredText = Convert.ToInt32(Console.ReadLine());
+        }
+        catch(System.FormatException)
+        {
+            break;
+        }
+        if (enteredText > 0)
+            count++;
     }
-    catch(System.FormatException)
-    {
-        break;
-    }
-    if (enteredText > 0)
-        count++;
-    
+    return count;
 }
-System.Console.WriteLine($"Amount of positive numbers: " + count);
+System.Console.WriteLine($"Amount of positive numbers: {AmountOfPositiveEnteredNums()}");
