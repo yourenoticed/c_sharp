@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/task44_fibonacci/bin/Debug/net6.0/task44_fibonacci
+/home/noticed/Desktop/c_sharp/task44_fibonacci/bin/Debug/net6.0/task44_fibonacci.deps.json
+/home/noticed/Desktop/c_sharp/task44_fibonacci/bin/Debug/net6.0/task44_fibonacci.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/task44_fibonacci/bin/Debug/net6.0/task44_fibonacci.dll
+/home/noticed/Desktop/c_sharp/task44_fibonacci/bin/Debug/net6.0/ref/task44_fibonacci.dll
+/home/noticed/Desktop/c_sharp/task44_fibonacci/bin/Debug/net6.0/task44_fibonacci.pdb
+/home/noticed/Desktop/c_sharp/task44_fibonacci/obj/Debug/net6.0/task44_fibonacci.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/task44_fibonacci/obj/Debug/net6.0/task44_fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/task44_fibonacci/obj/Debug/net6.0/task44_fibonacci.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/task44_fibonacci/obj/Debug/net6.0/task44_fibonacci.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/task44_fibonacci/obj/Debug/net6.0/task44_fibonacci.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/task44_fibonacci/obj/Debug/net6.0/task44_fibonacci.dll
+/home/noticed/Desktop/c_sharp/task44_fibonacci/obj/Debug/net6.0/ref/task44_fibonacci.dll
+/home/noticed/Desktop/c_sharp/task44_fibonacci/obj/Debug/net6.0/task44_fibonacci.pdb
+/home/noticed/Desktop/c_sharp/task44_fibonacci/obj/Debug/net6.0/task44_fibonacci.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/task40_isTrianglePossible/obj/Debug/net6.0/task40_isTrianglePossible.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/task40_isTrianglePossible/obj/Debug/net6.0/task40_isTrianglePossible.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/task40_isTrianglePossible/obj/Debug/net6.0/task40_isTrianglePossible.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/task40_isTrianglePossible/obj/Debug/net6.0/task40_isTrianglePossible.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/task40_isTrianglePossible/obj/Debug/net6.0/task40_isTrianglePossible.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/task40_isTrianglePossible/bin/Debug/net6.0/task40_isTrianglePossible
+/home/noticed/Desktop/c_sharp/task40_isTrianglePossible/bin/Debug/net6.0/task40_isTrianglePossible.deps.json
+/home/noticed/Desktop/c_sharp/task40_isTrianglePossible/bin/Debug/net6.0/task40_isTrianglePossible.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/task40_isTrianglePossible/bin/Debug/net6.0/task40_isTrianglePossible.dll
+/home/noticed/Desktop/c_sharp/task40_isTrianglePossible/bin/Debug/net6.0/ref/task40_isTrianglePossible.dll
+/home/noticed/Desktop/c_sharp/task40_isTrianglePossible/bin/Debug/net6.0/task40_isTrianglePossible.pdb
+/home/noticed/Desktop/c_sharp/task40_isTrianglePossible/obj/Debug/net6.0/task40_isTrianglePossible.dll
+/home/noticed/Desktop/c_sharp/task40_isTrianglePossible/obj/Debug/net6.0/ref/task40_isTrianglePossible.dll
+/home/noticed/Desktop/c_sharp/task40_isTrianglePossible/obj/Debug/net6.0/task40_isTrianglePossible.pdb
+/home/noticed/Desktop/c_sharp/task40_isTrianglePossible/obj/Debug/net6.0/task40_isTrianglePossible.genruntimeconfig.cache

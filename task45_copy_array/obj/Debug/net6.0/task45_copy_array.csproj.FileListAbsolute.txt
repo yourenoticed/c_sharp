@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/task45_copy_array/bin/Debug/net6.0/task45_copy_array
+/home/noticed/Desktop/c_sharp/task45_copy_array/bin/Debug/net6.0/task45_copy_array.deps.json
+/home/noticed/Desktop/c_sharp/task45_copy_array/bin/Debug/net6.0/task45_copy_array.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/task45_copy_array/bin/Debug/net6.0/task45_copy_array.dll
+/home/noticed/Desktop/c_sharp/task45_copy_array/bin/Debug/net6.0/ref/task45_copy_array.dll
+/home/noticed/Desktop/c_sharp/task45_copy_array/bin/Debug/net6.0/task45_copy_array.pdb
+/home/noticed/Desktop/c_sharp/task45_copy_array/obj/Debug/net6.0/task45_copy_array.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/task45_copy_array/obj/Debug/net6.0/task45_copy_array.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/task45_copy_array/obj/Debug/net6.0/task45_copy_array.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/task45_copy_array/obj/Debug/net6.0/task45_copy_array.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/task45_copy_array/obj/Debug/net6.0/task45_copy_array.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/task45_copy_array/obj/Debug/net6.0/task45_copy_array.dll
+/home/noticed/Desktop/c_sharp/task45_copy_array/obj/Debug/net6.0/ref/task45_copy_array.dll
+/home/noticed/Desktop/c_sharp/task45_copy_array/obj/Debug/net6.0/task45_copy_array.pdb
+/home/noticed/Desktop/c_sharp/task45_copy_array/obj/Debug/net6.0/task45_copy_array.genruntimeconfig.cache

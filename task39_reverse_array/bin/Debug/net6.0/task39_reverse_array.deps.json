@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "task39_reverse_array/1.0.0": {
+        "runtime": {
+          "task39_reverse_array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "task39_reverse_array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

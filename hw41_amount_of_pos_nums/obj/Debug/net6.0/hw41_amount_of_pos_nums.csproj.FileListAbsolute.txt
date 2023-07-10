@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/hw41_amount_of_pos_nums/obj/Debug/net6.0/hw41_amount_of_pos_nums.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/hw41_amount_of_pos_nums/obj/Debug/net6.0/hw41_amount_of_pos_nums.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/hw41_amount_of_pos_nums/obj/Debug/net6.0/hw41_amount_of_pos_nums.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/hw41_amount_of_pos_nums/obj/Debug/net6.0/hw41_amount_of_pos_nums.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/hw41_amount_of_pos_nums/obj/Debug/net6.0/hw41_amount_of_pos_nums.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/hw41_amount_of_pos_nums/bin/Debug/net6.0/hw41_amount_of_pos_nums
+/home/noticed/Desktop/c_sharp/hw41_amount_of_pos_nums/bin/Debug/net6.0/hw41_amount_of_pos_nums.deps.json
+/home/noticed/Desktop/c_sharp/hw41_amount_of_pos_nums/bin/Debug/net6.0/hw41_amount_of_pos_nums.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/hw41_amount_of_pos_nums/bin/Debug/net6.0/hw41_amount_of_pos_nums.dll
+/home/noticed/Desktop/c_sharp/hw41_amount_of_pos_nums/bin/Debug/net6.0/ref/hw41_amount_of_pos_nums.dll
+/home/noticed/Desktop/c_sharp/hw41_amount_of_pos_nums/bin/Debug/net6.0/hw41_amount_of_pos_nums.pdb
+/home/noticed/Desktop/c_sharp/hw41_amount_of_pos_nums/obj/Debug/net6.0/hw41_amount_of_pos_nums.dll
+/home/noticed/Desktop/c_sharp/hw41_amount_of_pos_nums/obj/Debug/net6.0/ref/hw41_amount_of_pos_nums.dll
+/home/noticed/Desktop/c_sharp/hw41_amount_of_pos_nums/obj/Debug/net6.0/hw41_amount_of_pos_nums.pdb
+/home/noticed/Desktop/c_sharp/hw41_amount_of_pos_nums/obj/Debug/net6.0/hw41_amount_of_pos_nums.genruntimeconfig.cache

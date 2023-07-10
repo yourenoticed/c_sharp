@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/hw43_intersection_point/obj/Debug/net6.0/hw43_intersection_point.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/hw43_intersection_point/obj/Debug/net6.0/hw43_intersection_point.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/hw43_intersection_point/obj/Debug/net6.0/hw43_intersection_point.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/hw43_intersection_point/obj/Debug/net6.0/hw43_intersection_point.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/hw43_intersection_point/obj/Debug/net6.0/hw43_intersection_point.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/hw43_intersection_point/bin/Debug/net6.0/hw43_intersection_point
+/home/noticed/Desktop/c_sharp/hw43_intersection_point/bin/Debug/net6.0/hw43_intersection_point.deps.json
+/home/noticed/Desktop/c_sharp/hw43_intersection_point/bin/Debug/net6.0/hw43_intersection_point.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/hw43_intersection_point/bin/Debug/net6.0/hw43_intersection_point.dll
+/home/noticed/Desktop/c_sharp/hw43_intersection_point/bin/Debug/net6.0/ref/hw43_intersection_point.dll
+/home/noticed/Desktop/c_sharp/hw43_intersection_point/bin/Debug/net6.0/hw43_intersection_point.pdb
+/home/noticed/Desktop/c_sharp/hw43_intersection_point/obj/Debug/net6.0/hw43_intersection_point.dll
+/home/noticed/Desktop/c_sharp/hw43_intersection_point/obj/Debug/net6.0/ref/hw43_intersection_point.dll
+/home/noticed/Desktop/c_sharp/hw43_intersection_point/obj/Debug/net6.0/hw43_intersection_point.pdb
+/home/noticed/Desktop/c_sharp/hw43_intersection_point/obj/Debug/net6.0/hw43_intersection_point.genruntimeconfig.cache

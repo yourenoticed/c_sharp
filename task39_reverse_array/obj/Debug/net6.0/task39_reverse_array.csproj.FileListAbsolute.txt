@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/task39_reverse_array/obj/Debug/net6.0/task39_reverse_array.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/task39_reverse_array/obj/Debug/net6.0/task39_reverse_array.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/task39_reverse_array/obj/Debug/net6.0/task39_reverse_array.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/task39_reverse_array/obj/Debug/net6.0/task39_reverse_array.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/task39_reverse_array/obj/Debug/net6.0/task39_reverse_array.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/task39_reverse_array/bin/Debug/net6.0/task39_reverse_array
+/home/noticed/Desktop/c_sharp/task39_reverse_array/bin/Debug/net6.0/task39_reverse_array.deps.json
+/home/noticed/Desktop/c_sharp/task39_reverse_array/bin/Debug/net6.0/task39_reverse_array.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/task39_reverse_array/bin/Debug/net6.0/task39_reverse_array.dll
+/home/noticed/Desktop/c_sharp/task39_reverse_array/bin/Debug/net6.0/ref/task39_reverse_array.dll
+/home/noticed/Desktop/c_sharp/task39_reverse_array/bin/Debug/net6.0/task39_reverse_array.pdb
+/home/noticed/Desktop/c_sharp/task39_reverse_array/obj/Debug/net6.0/task39_reverse_array.dll
+/home/noticed/Desktop/c_sharp/task39_reverse_array/obj/Debug/net6.0/ref/task39_reverse_array.dll
+/home/noticed/Desktop/c_sharp/task39_reverse_array/obj/Debug/net6.0/task39_reverse_array.pdb
+/home/noticed/Desktop/c_sharp/task39_reverse_array/obj/Debug/net6.0/task39_reverse_array.genruntimeconfig.cache

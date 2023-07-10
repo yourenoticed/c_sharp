@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/task42_dec_to_bin/bin/Debug/net6.0/task42_dec_to_bin
+/home/noticed/Desktop/c_sharp/task42_dec_to_bin/bin/Debug/net6.0/task42_dec_to_bin.deps.json
+/home/noticed/Desktop/c_sharp/task42_dec_to_bin/bin/Debug/net6.0/task42_dec_to_bin.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/task42_dec_to_bin/bin/Debug/net6.0/task42_dec_to_bin.dll
+/home/noticed/Desktop/c_sharp/task42_dec_to_bin/bin/Debug/net6.0/ref/task42_dec_to_bin.dll
+/home/noticed/Desktop/c_sharp/task42_dec_to_bin/bin/Debug/net6.0/task42_dec_to_bin.pdb
+/home/noticed/Desktop/c_sharp/task42_dec_to_bin/obj/Debug/net6.0/task42_dec_to_bin.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/task42_dec_to_bin/obj/Debug/net6.0/task42_dec_to_bin.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/task42_dec_to_bin/obj/Debug/net6.0/task42_dec_to_bin.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/task42_dec_to_bin/obj/Debug/net6.0/task42_dec_to_bin.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/task42_dec_to_bin/obj/Debug/net6.0/task42_dec_to_bin.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/task42_dec_to_bin/obj/Debug/net6.0/task42_dec_to_bin.dll
+/home/noticed/Desktop/c_sharp/task42_dec_to_bin/obj/Debug/net6.0/ref/task42_dec_to_bin.dll
+/home/noticed/Desktop/c_sharp/task42_dec_to_bin/obj/Debug/net6.0/task42_dec_to_bin.pdb
+/home/noticed/Desktop/c_sharp/task42_dec_to_bin/obj/Debug/net6.0/task42_dec_to_bin.genruntimeconfig.cache
