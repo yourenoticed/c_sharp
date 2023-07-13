@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/task49_EvenIndexedElmsToSquareInMatrix/bin/Debug/net6.0/task49_EvenIndexedElmsToSquareInMatrix
+/home/noticed/Desktop/c_sharp/task49_EvenIndexedElmsToSquareInMatrix/bin/Debug/net6.0/task49_EvenIndexedElmsToSquareInMatrix.deps.json
+/home/noticed/Desktop/c_sharp/task49_EvenIndexedElmsToSquareInMatrix/bin/Debug/net6.0/task49_EvenIndexedElmsToSquareInMatrix.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/task49_EvenIndexedElmsToSquareInMatrix/bin/Debug/net6.0/task49_EvenIndexedElmsToSquareInMatrix.dll
+/home/noticed/Desktop/c_sharp/task49_EvenIndexedElmsToSquareInMatrix/bin/Debug/net6.0/ref/task49_EvenIndexedElmsToSquareInMatrix.dll
+/home/noticed/Desktop/c_sharp/task49_EvenIndexedElmsToSquareInMatrix/bin/Debug/net6.0/task49_EvenIndexedElmsToSquareInMatrix.pdb
+/home/noticed/Desktop/c_sharp/task49_EvenIndexedElmsToSquareInMatrix/obj/Debug/net6.0/task49_EvenIndexedElmsToSquareInMatrix.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/task49_EvenIndexedElmsToSquareInMatrix/obj/Debug/net6.0/task49_EvenIndexedElmsToSquareInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/task49_EvenIndexedElmsToSquareInMatrix/obj/Debug/net6.0/task49_EvenIndexedElmsToSquareInMatrix.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/task49_EvenIndexedElmsToSquareInMatrix/obj/Debug/net6.0/task49_EvenIndexedElmsToSquareInMatrix.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/task49_EvenIndexedElmsToSquareInMatrix/obj/Debug/net6.0/task49_EvenIndexedElmsToSquareInMatrix.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/task49_EvenIndexedElmsToSquareInMatrix/obj/Debug/net6.0/task49_EvenIndexedElmsToSquareInMatrix.dll
+/home/noticed/Desktop/c_sharp/task49_EvenIndexedElmsToSquareInMatrix/obj/Debug/net6.0/ref/task49_EvenIndexedElmsToSquareInMatrix.dll
+/home/noticed/Desktop/c_sharp/task49_EvenIndexedElmsToSquareInMatrix/obj/Debug/net6.0/task49_EvenIndexedElmsToSquareInMatrix.pdb
+/home/noticed/Desktop/c_sharp/task49_EvenIndexedElmsToSquareInMatrix/obj/Debug/net6.0/task49_EvenIndexedElmsToSquareInMatrix.genruntimeconfig.cache

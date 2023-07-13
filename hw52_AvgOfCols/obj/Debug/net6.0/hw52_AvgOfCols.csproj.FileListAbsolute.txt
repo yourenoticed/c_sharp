@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/hw52_AvgOfCols/bin/Debug/net6.0/hw52_AvgOfCols
+/home/noticed/Desktop/c_sharp/hw52_AvgOfCols/bin/Debug/net6.0/hw52_AvgOfCols.deps.json
+/home/noticed/Desktop/c_sharp/hw52_AvgOfCols/bin/Debug/net6.0/hw52_AvgOfCols.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/hw52_AvgOfCols/bin/Debug/net6.0/hw52_AvgOfCols.dll
+/home/noticed/Desktop/c_sharp/hw52_AvgOfCols/bin/Debug/net6.0/ref/hw52_AvgOfCols.dll
+/home/noticed/Desktop/c_sharp/hw52_AvgOfCols/bin/Debug/net6.0/hw52_AvgOfCols.pdb
+/home/noticed/Desktop/c_sharp/hw52_AvgOfCols/obj/Debug/net6.0/hw52_AvgOfCols.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/hw52_AvgOfCols/obj/Debug/net6.0/hw52_AvgOfCols.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/hw52_AvgOfCols/obj/Debug/net6.0/hw52_AvgOfCols.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/hw52_AvgOfCols/obj/Debug/net6.0/hw52_AvgOfCols.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/hw52_AvgOfCols/obj/Debug/net6.0/hw52_AvgOfCols.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/hw52_AvgOfCols/obj/Debug/net6.0/hw52_AvgOfCols.dll
+/home/noticed/Desktop/c_sharp/hw52_AvgOfCols/obj/Debug/net6.0/ref/hw52_AvgOfCols.dll
+/home/noticed/Desktop/c_sharp/hw52_AvgOfCols/obj/Debug/net6.0/hw52_AvgOfCols.pdb
+/home/noticed/Desktop/c_sharp/hw52_AvgOfCols/obj/Debug/net6.0/hw52_AvgOfCols.genruntimeconfig.cache

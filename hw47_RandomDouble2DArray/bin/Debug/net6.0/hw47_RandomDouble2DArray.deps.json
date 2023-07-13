@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "hw47_RandomDouble2DArray/1.0.0": {
+        "runtime": {
+          "hw47_RandomDouble2DArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hw47_RandomDouble2DArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

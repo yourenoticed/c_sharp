@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/hw50_IsElementInArray/obj/Debug/net6.0/hw50_IsElementInArray.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/hw50_IsElementInArray/obj/Debug/net6.0/hw50_IsElementInArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/hw50_IsElementInArray/obj/Debug/net6.0/hw50_IsElementInArray.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/hw50_IsElementInArray/obj/Debug/net6.0/hw50_IsElementInArray.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/hw50_IsElementInArray/obj/Debug/net6.0/hw50_IsElementInArray.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/hw50_IsElementInArray/bin/Debug/net6.0/hw50_IsElementInArray
+/home/noticed/Desktop/c_sharp/hw50_IsElementInArray/bin/Debug/net6.0/hw50_IsElementInArray.deps.json
+/home/noticed/Desktop/c_sharp/hw50_IsElementInArray/bin/Debug/net6.0/hw50_IsElementInArray.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/hw50_IsElementInArray/bin/Debug/net6.0/hw50_IsElementInArray.dll
+/home/noticed/Desktop/c_sharp/hw50_IsElementInArray/bin/Debug/net6.0/ref/hw50_IsElementInArray.dll
+/home/noticed/Desktop/c_sharp/hw50_IsElementInArray/bin/Debug/net6.0/hw50_IsElementInArray.pdb
+/home/noticed/Desktop/c_sharp/hw50_IsElementInArray/obj/Debug/net6.0/hw50_IsElementInArray.dll
+/home/noticed/Desktop/c_sharp/hw50_IsElementInArray/obj/Debug/net6.0/ref/hw50_IsElementInArray.dll
+/home/noticed/Desktop/c_sharp/hw50_IsElementInArray/obj/Debug/net6.0/hw50_IsElementInArray.pdb
+/home/noticed/Desktop/c_sharp/hw50_IsElementInArray/obj/Debug/net6.0/hw50_IsElementInArray.genruntimeconfig.cache

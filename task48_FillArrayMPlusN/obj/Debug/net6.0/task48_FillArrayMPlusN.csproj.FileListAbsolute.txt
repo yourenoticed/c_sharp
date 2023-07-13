@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/task48_FillArrayMPlusN/bin/Debug/net6.0/task48_FillArrayMPlusN
+/home/noticed/Desktop/c_sharp/task48_FillArrayMPlusN/bin/Debug/net6.0/task48_FillArrayMPlusN.deps.json
+/home/noticed/Desktop/c_sharp/task48_FillArrayMPlusN/bin/Debug/net6.0/task48_FillArrayMPlusN.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/task48_FillArrayMPlusN/bin/Debug/net6.0/task48_FillArrayMPlusN.dll
+/home/noticed/Desktop/c_sharp/task48_FillArrayMPlusN/bin/Debug/net6.0/ref/task48_FillArrayMPlusN.dll
+/home/noticed/Desktop/c_sharp/task48_FillArrayMPlusN/bin/Debug/net6.0/task48_FillArrayMPlusN.pdb
+/home/noticed/Desktop/c_sharp/task48_FillArrayMPlusN/obj/Debug/net6.0/task48_FillArrayMPlusN.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/task48_FillArrayMPlusN/obj/Debug/net6.0/task48_FillArrayMPlusN.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/task48_FillArrayMPlusN/obj/Debug/net6.0/task48_FillArrayMPlusN.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/task48_FillArrayMPlusN/obj/Debug/net6.0/task48_FillArrayMPlusN.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/task48_FillArrayMPlusN/obj/Debug/net6.0/task48_FillArrayMPlusN.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/task48_FillArrayMPlusN/obj/Debug/net6.0/task48_FillArrayMPlusN.dll
+/home/noticed/Desktop/c_sharp/task48_FillArrayMPlusN/obj/Debug/net6.0/ref/task48_FillArrayMPlusN.dll
+/home/noticed/Desktop/c_sharp/task48_FillArrayMPlusN/obj/Debug/net6.0/task48_FillArrayMPlusN.pdb
+/home/noticed/Desktop/c_sharp/task48_FillArrayMPlusN/obj/Debug/net6.0/task48_FillArrayMPlusN.genruntimeconfig.cache

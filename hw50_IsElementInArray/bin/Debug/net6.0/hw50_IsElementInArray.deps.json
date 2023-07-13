@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "hw50_IsElementInArray/1.0.0": {
+        "runtime": {
+          "hw50_IsElementInArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hw50_IsElementInArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

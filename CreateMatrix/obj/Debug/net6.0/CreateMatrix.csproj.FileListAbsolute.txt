@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/CreateMatrix/bin/Debug/net6.0/CreateMatrix
+/home/noticed/Desktop/c_sharp/CreateMatrix/bin/Debug/net6.0/CreateMatrix.deps.json
+/home/noticed/Desktop/c_sharp/CreateMatrix/bin/Debug/net6.0/CreateMatrix.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/CreateMatrix/bin/Debug/net6.0/CreateMatrix.dll
+/home/noticed/Desktop/c_sharp/CreateMatrix/bin/Debug/net6.0/ref/CreateMatrix.dll
+/home/noticed/Desktop/c_sharp/CreateMatrix/bin/Debug/net6.0/CreateMatrix.pdb
+/home/noticed/Desktop/c_sharp/CreateMatrix/obj/Debug/net6.0/CreateMatrix.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/CreateMatrix/obj/Debug/net6.0/CreateMatrix.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/CreateMatrix/obj/Debug/net6.0/CreateMatrix.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/CreateMatrix/obj/Debug/net6.0/CreateMatrix.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/CreateMatrix/obj/Debug/net6.0/CreateMatrix.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/CreateMatrix/obj/Debug/net6.0/CreateMatrix.dll
+/home/noticed/Desktop/c_sharp/CreateMatrix/obj/Debug/net6.0/ref/CreateMatrix.dll
+/home/noticed/Desktop/c_sharp/CreateMatrix/obj/Debug/net6.0/CreateMatrix.pdb
+/home/noticed/Desktop/c_sharp/CreateMatrix/obj/Debug/net6.0/CreateMatrix.genruntimeconfig.cache

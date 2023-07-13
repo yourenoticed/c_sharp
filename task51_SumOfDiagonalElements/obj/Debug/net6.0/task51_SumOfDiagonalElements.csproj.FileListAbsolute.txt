@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/task51_SumOfDiagonalElements/bin/Debug/net6.0/task51_SumOfDiagonalElements
+/home/noticed/Desktop/c_sharp/task51_SumOfDiagonalElements/bin/Debug/net6.0/task51_SumOfDiagonalElements.deps.json
+/home/noticed/Desktop/c_sharp/task51_SumOfDiagonalElements/bin/Debug/net6.0/task51_SumOfDiagonalElements.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/task51_SumOfDiagonalElements/bin/Debug/net6.0/task51_SumOfDiagonalElements.dll
+/home/noticed/Desktop/c_sharp/task51_SumOfDiagonalElements/bin/Debug/net6.0/ref/task51_SumOfDiagonalElements.dll
+/home/noticed/Desktop/c_sharp/task51_SumOfDiagonalElements/bin/Debug/net6.0/task51_SumOfDiagonalElements.pdb
+/home/noticed/Desktop/c_sharp/task51_SumOfDiagonalElements/obj/Debug/net6.0/task51_SumOfDiagonalElements.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/task51_SumOfDiagonalElements/obj/Debug/net6.0/task51_SumOfDiagonalElements.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/task51_SumOfDiagonalElements/obj/Debug/net6.0/task51_SumOfDiagonalElements.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/task51_SumOfDiagonalElements/obj/Debug/net6.0/task51_SumOfDiagonalElements.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/task51_SumOfDiagonalElements/obj/Debug/net6.0/task51_SumOfDiagonalElements.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/task51_SumOfDiagonalElements/obj/Debug/net6.0/task51_SumOfDiagonalElements.dll
+/home/noticed/Desktop/c_sharp/task51_SumOfDiagonalElements/obj/Debug/net6.0/ref/task51_SumOfDiagonalElements.dll
+/home/noticed/Desktop/c_sharp/task51_SumOfDiagonalElements/obj/Debug/net6.0/task51_SumOfDiagonalElements.pdb
+/home/noticed/Desktop/c_sharp/task51_SumOfDiagonalElements/obj/Debug/net6.0/task51_SumOfDiagonalElements.genruntimeconfig.cache

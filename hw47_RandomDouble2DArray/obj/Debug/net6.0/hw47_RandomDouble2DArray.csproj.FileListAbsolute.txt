@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/hw47_RandomDouble2DArray/obj/Debug/net6.0/hw47_RandomDouble2DArray.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/hw47_RandomDouble2DArray/obj/Debug/net6.0/hw47_RandomDouble2DArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/hw47_RandomDouble2DArray/obj/Debug/net6.0/hw47_RandomDouble2DArray.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/hw47_RandomDouble2DArray/obj/Debug/net6.0/hw47_RandomDouble2DArray.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/hw47_RandomDouble2DArray/obj/Debug/net6.0/hw47_RandomDouble2DArray.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/hw47_RandomDouble2DArray/bin/Debug/net6.0/hw47_RandomDouble2DArray
+/home/noticed/Desktop/c_sharp/hw47_RandomDouble2DArray/bin/Debug/net6.0/hw47_RandomDouble2DArray.deps.json
+/home/noticed/Desktop/c_sharp/hw47_RandomDouble2DArray/bin/Debug/net6.0/hw47_RandomDouble2DArray.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/hw47_RandomDouble2DArray/bin/Debug/net6.0/hw47_RandomDouble2DArray.dll
+/home/noticed/Desktop/c_sharp/hw47_RandomDouble2DArray/bin/Debug/net6.0/ref/hw47_RandomDouble2DArray.dll
+/home/noticed/Desktop/c_sharp/hw47_RandomDouble2DArray/bin/Debug/net6.0/hw47_RandomDouble2DArray.pdb
+/home/noticed/Desktop/c_sharp/hw47_RandomDouble2DArray/obj/Debug/net6.0/hw47_RandomDouble2DArray.dll
+/home/noticed/Desktop/c_sharp/hw47_RandomDouble2DArray/obj/Debug/net6.0/ref/hw47_RandomDouble2DArray.dll
+/home/noticed/Desktop/c_sharp/hw47_RandomDouble2DArray/obj/Debug/net6.0/hw47_RandomDouble2DArray.pdb
+/home/noticed/Desktop/c_sharp/hw47_RandomDouble2DArray/obj/Debug/net6.0/hw47_RandomDouble2DArray.genruntimeconfig.cache
