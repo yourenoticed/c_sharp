@@ -2,7 +2,7 @@
 {
     double intersectionX = (b2 - b1) / (k1 - k2);
     double intersectionY = k1 * intersectionX + b1;
-    int[] intersectionPoint = {intersectionX, intersectionY};
+    double[] intersectionPoint = {intersectionX, intersectionY};
     return intersectionPoint;
 }
 
