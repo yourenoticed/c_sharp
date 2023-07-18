@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/hw60_RandomNonduplicate3DMatrix/obj/Debug/net6.0/hw60_RandomNonduplicate3DMatrix.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/hw60_RandomNonduplicate3DMatrix/obj/Debug/net6.0/hw60_RandomNonduplicate3DMatrix.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/hw60_RandomNonduplicate3DMatrix/obj/Debug/net6.0/hw60_RandomNonduplicate3DMatrix.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/hw60_RandomNonduplicate3DMatrix/obj/Debug/net6.0/hw60_RandomNonduplicate3DMatrix.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/hw60_RandomNonduplicate3DMatrix/obj/Debug/net6.0/hw60_RandomNonduplicate3DMatrix.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/hw60_RandomNonduplicate3DMatrix/bin/Debug/net6.0/hw60_RandomNonduplicate3DMatrix
+/home/noticed/Desktop/c_sharp/hw60_RandomNonduplicate3DMatrix/bin/Debug/net6.0/hw60_RandomNonduplicate3DMatrix.deps.json
+/home/noticed/Desktop/c_sharp/hw60_RandomNonduplicate3DMatrix/bin/Debug/net6.0/hw60_RandomNonduplicate3DMatrix.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/hw60_RandomNonduplicate3DMatrix/bin/Debug/net6.0/hw60_RandomNonduplicate3DMatrix.dll
+/home/noticed/Desktop/c_sharp/hw60_RandomNonduplicate3DMatrix/bin/Debug/net6.0/ref/hw60_RandomNonduplicate3DMatrix.dll
+/home/noticed/Desktop/c_sharp/hw60_RandomNonduplicate3DMatrix/bin/Debug/net6.0/hw60_RandomNonduplicate3DMatrix.pdb
+/home/noticed/Desktop/c_sharp/hw60_RandomNonduplicate3DMatrix/obj/Debug/net6.0/hw60_RandomNonduplicate3DMatrix.dll
+/home/noticed/Desktop/c_sharp/hw60_RandomNonduplicate3DMatrix/obj/Debug/net6.0/ref/hw60_RandomNonduplicate3DMatrix.dll
+/home/noticed/Desktop/c_sharp/hw60_RandomNonduplicate3DMatrix/obj/Debug/net6.0/hw60_RandomNonduplicate3DMatrix.pdb
+/home/noticed/Desktop/c_sharp/hw60_RandomNonduplicate3DMatrix/obj/Debug/net6.0/hw60_RandomNonduplicate3DMatrix.genruntimeconfig.cache

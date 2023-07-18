@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "hw60_RandomNonduplicate3DMatrix/1.0.0": {
+        "runtime": {
+          "hw60_RandomNonduplicate3DMatrix.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hw60_RandomNonduplicate3DMatrix/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

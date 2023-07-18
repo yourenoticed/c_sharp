@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/task55_ReplaceRowsAndCols/bin/Debug/net6.0/task55_ReplaceRowsAndCols
+/home/noticed/Desktop/c_sharp/task55_ReplaceRowsAndCols/bin/Debug/net6.0/task55_ReplaceRowsAndCols.deps.json
+/home/noticed/Desktop/c_sharp/task55_ReplaceRowsAndCols/bin/Debug/net6.0/task55_ReplaceRowsAndCols.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/task55_ReplaceRowsAndCols/bin/Debug/net6.0/task55_ReplaceRowsAndCols.dll
+/home/noticed/Desktop/c_sharp/task55_ReplaceRowsAndCols/bin/Debug/net6.0/ref/task55_ReplaceRowsAndCols.dll
+/home/noticed/Desktop/c_sharp/task55_ReplaceRowsAndCols/bin/Debug/net6.0/task55_ReplaceRowsAndCols.pdb
+/home/noticed/Desktop/c_sharp/task55_ReplaceRowsAndCols/obj/Debug/net6.0/task55_ReplaceRowsAndCols.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/task55_ReplaceRowsAndCols/obj/Debug/net6.0/task55_ReplaceRowsAndCols.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/task55_ReplaceRowsAndCols/obj/Debug/net6.0/task55_ReplaceRowsAndCols.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/task55_ReplaceRowsAndCols/obj/Debug/net6.0/task55_ReplaceRowsAndCols.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/task55_ReplaceRowsAndCols/obj/Debug/net6.0/task55_ReplaceRowsAndCols.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/task55_ReplaceRowsAndCols/obj/Debug/net6.0/task55_ReplaceRowsAndCols.dll
+/home/noticed/Desktop/c_sharp/task55_ReplaceRowsAndCols/obj/Debug/net6.0/ref/task55_ReplaceRowsAndCols.dll
+/home/noticed/Desktop/c_sharp/task55_ReplaceRowsAndCols/obj/Debug/net6.0/task55_ReplaceRowsAndCols.pdb
+/home/noticed/Desktop/c_sharp/task55_ReplaceRowsAndCols/obj/Debug/net6.0/task55_ReplaceRowsAndCols.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/hw56_RowWithLeastSum/obj/Debug/net6.0/hw56_RowWithLeastSum.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/hw56_RowWithLeastSum/obj/Debug/net6.0/hw56_RowWithLeastSum.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/hw56_RowWithLeastSum/obj/Debug/net6.0/hw56_RowWithLeastSum.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/hw56_RowWithLeastSum/obj/Debug/net6.0/hw56_RowWithLeastSum.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/hw56_RowWithLeastSum/obj/Debug/net6.0/hw56_RowWithLeastSum.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/hw56_RowWithLeastSum/bin/Debug/net6.0/hw56_RowWithLeastSum
+/home/noticed/Desktop/c_sharp/hw56_RowWithLeastSum/bin/Debug/net6.0/hw56_RowWithLeastSum.deps.json
+/home/noticed/Desktop/c_sharp/hw56_RowWithLeastSum/bin/Debug/net6.0/hw56_RowWithLeastSum.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/hw56_RowWithLeastSum/bin/Debug/net6.0/hw56_RowWithLeastSum.dll
+/home/noticed/Desktop/c_sharp/hw56_RowWithLeastSum/bin/Debug/net6.0/ref/hw56_RowWithLeastSum.dll
+/home/noticed/Desktop/c_sharp/hw56_RowWithLeastSum/bin/Debug/net6.0/hw56_RowWithLeastSum.pdb
+/home/noticed/Desktop/c_sharp/hw56_RowWithLeastSum/obj/Debug/net6.0/hw56_RowWithLeastSum.dll
+/home/noticed/Desktop/c_sharp/hw56_RowWithLeastSum/obj/Debug/net6.0/ref/hw56_RowWithLeastSum.dll
+/home/noticed/Desktop/c_sharp/hw56_RowWithLeastSum/obj/Debug/net6.0/hw56_RowWithLeastSum.pdb
+/home/noticed/Desktop/c_sharp/hw56_RowWithLeastSum/obj/Debug/net6.0/hw56_RowWithLeastSum.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "hw62_SpiralMatrixFill/1.0.0": {
+        "runtime": {
+          "hw62_SpiralMatrixFill.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hw62_SpiralMatrixFill/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

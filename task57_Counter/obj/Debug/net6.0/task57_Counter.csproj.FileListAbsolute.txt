@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/task57_Counter/obj/Debug/net6.0/task57_Counter.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/task57_Counter/obj/Debug/net6.0/task57_Counter.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/task57_Counter/obj/Debug/net6.0/task57_Counter.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/task57_Counter/obj/Debug/net6.0/task57_Counter.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/task57_Counter/obj/Debug/net6.0/task57_Counter.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/task57_Counter/bin/Debug/net6.0/task57_Counter
+/home/noticed/Desktop/c_sharp/task57_Counter/bin/Debug/net6.0/task57_Counter.deps.json
+/home/noticed/Desktop/c_sharp/task57_Counter/bin/Debug/net6.0/task57_Counter.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/task57_Counter/bin/Debug/net6.0/task57_Counter.dll
+/home/noticed/Desktop/c_sharp/task57_Counter/bin/Debug/net6.0/ref/task57_Counter.dll
+/home/noticed/Desktop/c_sharp/task57_Counter/bin/Debug/net6.0/task57_Counter.pdb
+/home/noticed/Desktop/c_sharp/task57_Counter/obj/Debug/net6.0/task57_Counter.dll
+/home/noticed/Desktop/c_sharp/task57_Counter/obj/Debug/net6.0/ref/task57_Counter.dll
+/home/noticed/Desktop/c_sharp/task57_Counter/obj/Debug/net6.0/task57_Counter.pdb
+/home/noticed/Desktop/c_sharp/task57_Counter/obj/Debug/net6.0/task57_Counter.genruntimeconfig.cache

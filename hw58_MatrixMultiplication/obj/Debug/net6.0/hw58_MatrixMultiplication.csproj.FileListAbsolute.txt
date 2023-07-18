@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/hw58_MatrixMultiplication/obj/Debug/net6.0/hw58_MatrixMultiplication.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/hw58_MatrixMultiplication/obj/Debug/net6.0/hw58_MatrixMultiplication.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/hw58_MatrixMultiplication/obj/Debug/net6.0/hw58_MatrixMultiplication.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/hw58_MatrixMultiplication/obj/Debug/net6.0/hw58_MatrixMultiplication.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/hw58_MatrixMultiplication/obj/Debug/net6.0/hw58_MatrixMultiplication.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/hw58_MatrixMultiplication/bin/Debug/net6.0/hw58_MatrixMultiplication
+/home/noticed/Desktop/c_sharp/hw58_MatrixMultiplication/bin/Debug/net6.0/hw58_MatrixMultiplication.deps.json
+/home/noticed/Desktop/c_sharp/hw58_MatrixMultiplication/bin/Debug/net6.0/hw58_MatrixMultiplication.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/hw58_MatrixMultiplication/bin/Debug/net6.0/hw58_MatrixMultiplication.dll
+/home/noticed/Desktop/c_sharp/hw58_MatrixMultiplication/bin/Debug/net6.0/ref/hw58_MatrixMultiplication.dll
+/home/noticed/Desktop/c_sharp/hw58_MatrixMultiplication/bin/Debug/net6.0/hw58_MatrixMultiplication.pdb
+/home/noticed/Desktop/c_sharp/hw58_MatrixMultiplication/obj/Debug/net6.0/hw58_MatrixMultiplication.dll
+/home/noticed/Desktop/c_sharp/hw58_MatrixMultiplication/obj/Debug/net6.0/ref/hw58_MatrixMultiplication.dll
+/home/noticed/Desktop/c_sharp/hw58_MatrixMultiplication/obj/Debug/net6.0/hw58_MatrixMultiplication.pdb
+/home/noticed/Desktop/c_sharp/hw58_MatrixMultiplication/obj/Debug/net6.0/hw58_MatrixMultiplication.genruntimeconfig.cache

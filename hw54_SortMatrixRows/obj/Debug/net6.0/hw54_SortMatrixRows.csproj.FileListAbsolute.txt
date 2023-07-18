@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/hw54_SortMatrixRows/bin/Debug/net6.0/hw54_SortMatrixRows
+/home/noticed/Desktop/c_sharp/hw54_SortMatrixRows/bin/Debug/net6.0/hw54_SortMatrixRows.deps.json
+/home/noticed/Desktop/c_sharp/hw54_SortMatrixRows/bin/Debug/net6.0/hw54_SortMatrixRows.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/hw54_SortMatrixRows/bin/Debug/net6.0/hw54_SortMatrixRows.dll
+/home/noticed/Desktop/c_sharp/hw54_SortMatrixRows/bin/Debug/net6.0/ref/hw54_SortMatrixRows.dll
+/home/noticed/Desktop/c_sharp/hw54_SortMatrixRows/bin/Debug/net6.0/hw54_SortMatrixRows.pdb
+/home/noticed/Desktop/c_sharp/hw54_SortMatrixRows/obj/Debug/net6.0/hw54_SortMatrixRows.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/hw54_SortMatrixRows/obj/Debug/net6.0/hw54_SortMatrixRows.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/hw54_SortMatrixRows/obj/Debug/net6.0/hw54_SortMatrixRows.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/hw54_SortMatrixRows/obj/Debug/net6.0/hw54_SortMatrixRows.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/hw54_SortMatrixRows/obj/Debug/net6.0/hw54_SortMatrixRows.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/hw54_SortMatrixRows/obj/Debug/net6.0/hw54_SortMatrixRows.dll
+/home/noticed/Desktop/c_sharp/hw54_SortMatrixRows/obj/Debug/net6.0/ref/hw54_SortMatrixRows.dll
+/home/noticed/Desktop/c_sharp/hw54_SortMatrixRows/obj/Debug/net6.0/hw54_SortMatrixRows.pdb
+/home/noticed/Desktop/c_sharp/hw54_SortMatrixRows/obj/Debug/net6.0/hw54_SortMatrixRows.genruntimeconfig.cache

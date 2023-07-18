@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/hw62_SpiralMatrixFill/obj/Debug/net6.0/hw62_SpiralMatrixFill.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/hw62_SpiralMatrixFill/obj/Debug/net6.0/hw62_SpiralMatrixFill.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/hw62_SpiralMatrixFill/obj/Debug/net6.0/hw62_SpiralMatrixFill.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/hw62_SpiralMatrixFill/obj/Debug/net6.0/hw62_SpiralMatrixFill.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/hw62_SpiralMatrixFill/obj/Debug/net6.0/hw62_SpiralMatrixFill.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/hw62_SpiralMatrixFill/bin/Debug/net6.0/hw62_SpiralMatrixFill
+/home/noticed/Desktop/c_sharp/hw62_SpiralMatrixFill/bin/Debug/net6.0/hw62_SpiralMatrixFill.deps.json
+/home/noticed/Desktop/c_sharp/hw62_SpiralMatrixFill/bin/Debug/net6.0/hw62_SpiralMatrixFill.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/hw62_SpiralMatrixFill/bin/Debug/net6.0/hw62_SpiralMatrixFill.dll
+/home/noticed/Desktop/c_sharp/hw62_SpiralMatrixFill/bin/Debug/net6.0/ref/hw62_SpiralMatrixFill.dll
+/home/noticed/Desktop/c_sharp/hw62_SpiralMatrixFill/bin/Debug/net6.0/hw62_SpiralMatrixFill.pdb
+/home/noticed/Desktop/c_sharp/hw62_SpiralMatrixFill/obj/Debug/net6.0/hw62_SpiralMatrixFill.dll
+/home/noticed/Desktop/c_sharp/hw62_SpiralMatrixFill/obj/Debug/net6.0/ref/hw62_SpiralMatrixFill.dll
+/home/noticed/Desktop/c_sharp/hw62_SpiralMatrixFill/obj/Debug/net6.0/hw62_SpiralMatrixFill.pdb
+/home/noticed/Desktop/c_sharp/hw62_SpiralMatrixFill/obj/Debug/net6.0/hw62_SpiralMatrixFill.genruntimeconfig.cache

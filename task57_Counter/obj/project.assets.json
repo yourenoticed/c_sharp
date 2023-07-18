@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/noticed/Desktop/c_sharp/task00_square_of_num/task00_square_of_num.csproj",
-      "projectName": "task00_square_of_num",
-      "projectPath": "/home/noticed/Desktop/c_sharp/task00_square_of_num/task00_square_of_num.csproj",
+      "projectUniqueName": "/home/noticed/Desktop/c_sharp/task57_Counter/task57_Counter.csproj",
+      "projectName": "task57_Counter",
+      "projectPath": "/home/noticed/Desktop/c_sharp/task57_Counter/task57_Counter.csproj",
       "packagesPath": "/home/noticed/.nuget/packages/",
-      "outputPath": "/home/noticed/Desktop/c_sharp/task00_square_of_num/obj/",
+      "outputPath": "/home/noticed/Desktop/c_sharp/task57_Counter/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/noticed/.nuget/NuGet/NuGet.Config"

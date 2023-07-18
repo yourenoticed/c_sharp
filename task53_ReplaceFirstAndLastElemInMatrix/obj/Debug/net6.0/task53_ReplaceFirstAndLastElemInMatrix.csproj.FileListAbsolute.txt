@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/task53_ReplaceFirstAndLastElemInMatrix/obj/Debug/net6.0/task53_ReplaceFirstAndLastElemInMatrix.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/task53_ReplaceFirstAndLastElemInMatrix/obj/Debug/net6.0/task53_ReplaceFirstAndLastElemInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/task53_ReplaceFirstAndLastElemInMatrix/obj/Debug/net6.0/task53_ReplaceFirstAndLastElemInMatrix.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/task53_ReplaceFirstAndLastElemInMatrix/obj/Debug/net6.0/task53_ReplaceFirstAndLastElemInMatrix.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/task53_ReplaceFirstAndLastElemInMatrix/obj/Debug/net6.0/task53_ReplaceFirstAndLastElemInMatrix.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/task53_ReplaceFirstAndLastElemInMatrix/bin/Debug/net6.0/task53_ReplaceFirstAndLastElemInMatrix
+/home/noticed/Desktop/c_sharp/task53_ReplaceFirstAndLastElemInMatrix/bin/Debug/net6.0/task53_ReplaceFirstAndLastElemInMatrix.deps.json
+/home/noticed/Desktop/c_sharp/task53_ReplaceFirstAndLastElemInMatrix/bin/Debug/net6.0/task53_ReplaceFirstAndLastElemInMatrix.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/task53_ReplaceFirstAndLastElemInMatrix/bin/Debug/net6.0/task53_ReplaceFirstAndLastElemInMatrix.dll
+/home/noticed/Desktop/c_sharp/task53_ReplaceFirstAndLastElemInMatrix/bin/Debug/net6.0/ref/task53_ReplaceFirstAndLastElemInMatrix.dll
+/home/noticed/Desktop/c_sharp/task53_ReplaceFirstAndLastElemInMatrix/bin/Debug/net6.0/task53_ReplaceFirstAndLastElemInMatrix.pdb
+/home/noticed/Desktop/c_sharp/task53_ReplaceFirstAndLastElemInMatrix/obj/Debug/net6.0/task53_ReplaceFirstAndLastElemInMatrix.dll
+/home/noticed/Desktop/c_sharp/task53_ReplaceFirstAndLastElemInMatrix/obj/Debug/net6.0/ref/task53_ReplaceFirstAndLastElemInMatrix.dll
+/home/noticed/Desktop/c_sharp/task53_ReplaceFirstAndLastElemInMatrix/obj/Debug/net6.0/task53_ReplaceFirstAndLastElemInMatrix.pdb
+/home/noticed/Desktop/c_sharp/task53_ReplaceFirstAndLastElemInMatrix/obj/Debug/net6.0/task53_ReplaceFirstAndLastElemInMatrix.genruntimeconfig.cache
