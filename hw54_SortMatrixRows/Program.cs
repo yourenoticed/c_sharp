@@ -39,7 +39,7 @@ void SortMatrixRows(int[,] matrix)
         {
             for (int k = 0; k < matrix.GetLength(1) - sorted - 1; k++)
             {
-                if (matrix[i, k] > matrix[i, k + 1])
+                if (matrix[i, k] < matrix[i, k + 1])
                 {
                     int temp = matrix[i, k + 1];
                     matrix[i, k + 1] = matrix[i, k];

@@ -78,5 +78,5 @@ void PrintMatrix(int[,] matrix)
     }
 }
 
-int[,] spiral = CreateSpiralFilledMatrix(5, 5);
+int[,] spiral = CreateSpiralFilledMatrix(2, 2);
 PrintMatrix(spiral);
