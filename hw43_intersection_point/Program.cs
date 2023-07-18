@@ -1,8 +1,18 @@
-﻿double[] IntersectionPoint(int k1, int b1, int k2, int b2) // NOTE: y = k1/k2 * x + b1/b2, NOT y = b1/b2 * x + k1/k2
+﻿double[] IntersectionPoint(double k1, double b1, double k2, double b2) // NOTE: y = k1/k2 * x + b1/b2, NOT y = b1/b2 * x + k1/k2
 {
-    double intersectionX = (b2 - b1) / (k1 - k2);
-    double intersectionY = k1 * intersectionX + b1;
-    double[] intersectionPoint = {intersectionX, intersectionY};
+    double[] intersectionPoint = new double[2];
+    if (k1 != k2)
+    {
+        double intersectionX = (b2 - b1) / (k1 - k2);
+        double intersectionY = k1 * intersectionX + b1;
+        intersectionPoint[0] = intersectionX;
+        intersectionPoint[1] = intersectionY;
+        PrintArray(intersectionPoint);
+    }
+    else
+    {
+        Console.WriteLine("The lines are parallel");
+    }
     return intersectionPoint;
 }
 
@@ -18,4 +28,4 @@ void PrintArray(double[] array)
     }
 }
 
-PrintArray(IntersectionPoint(5, 4, 1, 2));
+double[] intP = IntersectionPoint(5, 4, 1, 2);
