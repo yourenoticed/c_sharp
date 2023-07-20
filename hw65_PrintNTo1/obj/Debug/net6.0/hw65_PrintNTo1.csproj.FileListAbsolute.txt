@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/hw65_PrintNTo1/obj/Debug/net6.0/hw65_PrintNTo1.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/hw65_PrintNTo1/obj/Debug/net6.0/hw65_PrintNTo1.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/hw65_PrintNTo1/obj/Debug/net6.0/hw65_PrintNTo1.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/hw65_PrintNTo1/obj/Debug/net6.0/hw65_PrintNTo1.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/hw65_PrintNTo1/obj/Debug/net6.0/hw65_PrintNTo1.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/hw65_PrintNTo1/bin/Debug/net6.0/hw65_PrintNTo1
+/home/noticed/Desktop/c_sharp/hw65_PrintNTo1/bin/Debug/net6.0/hw65_PrintNTo1.deps.json
+/home/noticed/Desktop/c_sharp/hw65_PrintNTo1/bin/Debug/net6.0/hw65_PrintNTo1.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/hw65_PrintNTo1/bin/Debug/net6.0/hw65_PrintNTo1.dll
+/home/noticed/Desktop/c_sharp/hw65_PrintNTo1/bin/Debug/net6.0/ref/hw65_PrintNTo1.dll
+/home/noticed/Desktop/c_sharp/hw65_PrintNTo1/bin/Debug/net6.0/hw65_PrintNTo1.pdb
+/home/noticed/Desktop/c_sharp/hw65_PrintNTo1/obj/Debug/net6.0/hw65_PrintNTo1.dll
+/home/noticed/Desktop/c_sharp/hw65_PrintNTo1/obj/Debug/net6.0/ref/hw65_PrintNTo1.dll
+/home/noticed/Desktop/c_sharp/hw65_PrintNTo1/obj/Debug/net6.0/hw65_PrintNTo1.pdb
+/home/noticed/Desktop/c_sharp/hw65_PrintNTo1/obj/Debug/net6.0/hw65_PrintNTo1.genruntimeconfig.cache

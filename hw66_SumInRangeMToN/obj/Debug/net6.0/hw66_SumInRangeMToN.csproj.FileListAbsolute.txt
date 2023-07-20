@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/hw66_SumInRangeMToN/bin/Debug/net6.0/hw66_SumInRangeMToN
+/home/noticed/Desktop/c_sharp/hw66_SumInRangeMToN/bin/Debug/net6.0/hw66_SumInRangeMToN.deps.json
+/home/noticed/Desktop/c_sharp/hw66_SumInRangeMToN/bin/Debug/net6.0/hw66_SumInRangeMToN.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/hw66_SumInRangeMToN/bin/Debug/net6.0/hw66_SumInRangeMToN.dll
+/home/noticed/Desktop/c_sharp/hw66_SumInRangeMToN/bin/Debug/net6.0/ref/hw66_SumInRangeMToN.dll
+/home/noticed/Desktop/c_sharp/hw66_SumInRangeMToN/bin/Debug/net6.0/hw66_SumInRangeMToN.pdb
+/home/noticed/Desktop/c_sharp/hw66_SumInRangeMToN/obj/Debug/net6.0/hw66_SumInRangeMToN.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/hw66_SumInRangeMToN/obj/Debug/net6.0/hw66_SumInRangeMToN.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/hw66_SumInRangeMToN/obj/Debug/net6.0/hw66_SumInRangeMToN.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/hw66_SumInRangeMToN/obj/Debug/net6.0/hw66_SumInRangeMToN.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/hw66_SumInRangeMToN/obj/Debug/net6.0/hw66_SumInRangeMToN.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/hw66_SumInRangeMToN/obj/Debug/net6.0/hw66_SumInRangeMToN.dll
+/home/noticed/Desktop/c_sharp/hw66_SumInRangeMToN/obj/Debug/net6.0/ref/hw66_SumInRangeMToN.dll
+/home/noticed/Desktop/c_sharp/hw66_SumInRangeMToN/obj/Debug/net6.0/hw66_SumInRangeMToN.pdb
+/home/noticed/Desktop/c_sharp/hw66_SumInRangeMToN/obj/Debug/net6.0/hw66_SumInRangeMToN.genruntimeconfig.cache

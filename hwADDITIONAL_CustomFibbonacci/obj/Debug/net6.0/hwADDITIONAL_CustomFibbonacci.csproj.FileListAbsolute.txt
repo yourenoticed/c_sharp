@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/hwADDITIONAL_CustomFibbonacci/bin/Debug/net6.0/hwADDITIONAL_CustomFibbonacci
+/home/noticed/Desktop/c_sharp/hwADDITIONAL_CustomFibbonacci/bin/Debug/net6.0/hwADDITIONAL_CustomFibbonacci.deps.json
+/home/noticed/Desktop/c_sharp/hwADDITIONAL_CustomFibbonacci/bin/Debug/net6.0/hwADDITIONAL_CustomFibbonacci.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/hwADDITIONAL_CustomFibbonacci/bin/Debug/net6.0/hwADDITIONAL_CustomFibbonacci.dll
+/home/noticed/Desktop/c_sharp/hwADDITIONAL_CustomFibbonacci/bin/Debug/net6.0/ref/hwADDITIONAL_CustomFibbonacci.dll
+/home/noticed/Desktop/c_sharp/hwADDITIONAL_CustomFibbonacci/bin/Debug/net6.0/hwADDITIONAL_CustomFibbonacci.pdb
+/home/noticed/Desktop/c_sharp/hwADDITIONAL_CustomFibbonacci/obj/Debug/net6.0/hwADDITIONAL_CustomFibbonacci.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/hwADDITIONAL_CustomFibbonacci/obj/Debug/net6.0/hwADDITIONAL_CustomFibbonacci.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/hwADDITIONAL_CustomFibbonacci/obj/Debug/net6.0/hwADDITIONAL_CustomFibbonacci.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/hwADDITIONAL_CustomFibbonacci/obj/Debug/net6.0/hwADDITIONAL_CustomFibbonacci.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/hwADDITIONAL_CustomFibbonacci/obj/Debug/net6.0/hwADDITIONAL_CustomFibbonacci.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/hwADDITIONAL_CustomFibbonacci/obj/Debug/net6.0/hwADDITIONAL_CustomFibbonacci.dll
+/home/noticed/Desktop/c_sharp/hwADDITIONAL_CustomFibbonacci/obj/Debug/net6.0/ref/hwADDITIONAL_CustomFibbonacci.dll
+/home/noticed/Desktop/c_sharp/hwADDITIONAL_CustomFibbonacci/obj/Debug/net6.0/hwADDITIONAL_CustomFibbonacci.pdb
+/home/noticed/Desktop/c_sharp/hwADDITIONAL_CustomFibbonacci/obj/Debug/net6.0/hwADDITIONAL_CustomFibbonacci.genruntimeconfig.cache

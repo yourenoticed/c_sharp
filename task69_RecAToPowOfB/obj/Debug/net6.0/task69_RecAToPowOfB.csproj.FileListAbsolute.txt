@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/task69_RecAToPowOfB/bin/Debug/net6.0/task69_RecAToPowOfB
+/home/noticed/Desktop/c_sharp/task69_RecAToPowOfB/bin/Debug/net6.0/task69_RecAToPowOfB.deps.json
+/home/noticed/Desktop/c_sharp/task69_RecAToPowOfB/bin/Debug/net6.0/task69_RecAToPowOfB.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/task69_RecAToPowOfB/bin/Debug/net6.0/task69_RecAToPowOfB.dll
+/home/noticed/Desktop/c_sharp/task69_RecAToPowOfB/bin/Debug/net6.0/ref/task69_RecAToPowOfB.dll
+/home/noticed/Desktop/c_sharp/task69_RecAToPowOfB/bin/Debug/net6.0/task69_RecAToPowOfB.pdb
+/home/noticed/Desktop/c_sharp/task69_RecAToPowOfB/obj/Debug/net6.0/task69_RecAToPowOfB.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/task69_RecAToPowOfB/obj/Debug/net6.0/task69_RecAToPowOfB.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/task69_RecAToPowOfB/obj/Debug/net6.0/task69_RecAToPowOfB.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/task69_RecAToPowOfB/obj/Debug/net6.0/task69_RecAToPowOfB.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/task69_RecAToPowOfB/obj/Debug/net6.0/task69_RecAToPowOfB.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/task69_RecAToPowOfB/obj/Debug/net6.0/task69_RecAToPowOfB.dll
+/home/noticed/Desktop/c_sharp/task69_RecAToPowOfB/obj/Debug/net6.0/ref/task69_RecAToPowOfB.dll
+/home/noticed/Desktop/c_sharp/task69_RecAToPowOfB/obj/Debug/net6.0/task69_RecAToPowOfB.pdb
+/home/noticed/Desktop/c_sharp/task69_RecAToPowOfB/obj/Debug/net6.0/task69_RecAToPowOfB.genruntimeconfig.cache

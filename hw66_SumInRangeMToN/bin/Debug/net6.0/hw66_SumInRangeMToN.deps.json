@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "hw66_SumInRangeMToN/1.0.0": {
+        "runtime": {
+          "hw66_SumInRangeMToN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "hw66_SumInRangeMToN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

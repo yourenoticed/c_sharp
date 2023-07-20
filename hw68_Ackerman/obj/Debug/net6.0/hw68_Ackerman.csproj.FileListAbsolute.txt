@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/hw68_Ackerman/bin/Debug/net6.0/hw68_Ackerman
+/home/noticed/Desktop/c_sharp/hw68_Ackerman/bin/Debug/net6.0/hw68_Ackerman.deps.json
+/home/noticed/Desktop/c_sharp/hw68_Ackerman/bin/Debug/net6.0/hw68_Ackerman.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/hw68_Ackerman/bin/Debug/net6.0/hw68_Ackerman.dll
+/home/noticed/Desktop/c_sharp/hw68_Ackerman/bin/Debug/net6.0/ref/hw68_Ackerman.dll
+/home/noticed/Desktop/c_sharp/hw68_Ackerman/bin/Debug/net6.0/hw68_Ackerman.pdb
+/home/noticed/Desktop/c_sharp/hw68_Ackerman/obj/Debug/net6.0/hw68_Ackerman.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/hw68_Ackerman/obj/Debug/net6.0/hw68_Ackerman.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/hw68_Ackerman/obj/Debug/net6.0/hw68_Ackerman.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/hw68_Ackerman/obj/Debug/net6.0/hw68_Ackerman.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/hw68_Ackerman/obj/Debug/net6.0/hw68_Ackerman.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/hw68_Ackerman/obj/Debug/net6.0/hw68_Ackerman.dll
+/home/noticed/Desktop/c_sharp/hw68_Ackerman/obj/Debug/net6.0/ref/hw68_Ackerman.dll
+/home/noticed/Desktop/c_sharp/hw68_Ackerman/obj/Debug/net6.0/hw68_Ackerman.pdb
+/home/noticed/Desktop/c_sharp/hw68_Ackerman/obj/Debug/net6.0/hw68_Ackerman.genruntimeconfig.cache

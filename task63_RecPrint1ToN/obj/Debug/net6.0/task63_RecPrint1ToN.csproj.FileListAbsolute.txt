@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/task63_RecPrint1ToN/bin/Debug/net6.0/task63_RecPrint1ToN
+/home/noticed/Desktop/c_sharp/task63_RecPrint1ToN/bin/Debug/net6.0/task63_RecPrint1ToN.deps.json
+/home/noticed/Desktop/c_sharp/task63_RecPrint1ToN/bin/Debug/net6.0/task63_RecPrint1ToN.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/task63_RecPrint1ToN/bin/Debug/net6.0/task63_RecPrint1ToN.dll
+/home/noticed/Desktop/c_sharp/task63_RecPrint1ToN/bin/Debug/net6.0/ref/task63_RecPrint1ToN.dll
+/home/noticed/Desktop/c_sharp/task63_RecPrint1ToN/bin/Debug/net6.0/task63_RecPrint1ToN.pdb
+/home/noticed/Desktop/c_sharp/task63_RecPrint1ToN/obj/Debug/net6.0/task63_RecPrint1ToN.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/task63_RecPrint1ToN/obj/Debug/net6.0/task63_RecPrint1ToN.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/task63_RecPrint1ToN/obj/Debug/net6.0/task63_RecPrint1ToN.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/task63_RecPrint1ToN/obj/Debug/net6.0/task63_RecPrint1ToN.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/task63_RecPrint1ToN/obj/Debug/net6.0/task63_RecPrint1ToN.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/task63_RecPrint1ToN/obj/Debug/net6.0/task63_RecPrint1ToN.dll
+/home/noticed/Desktop/c_sharp/task63_RecPrint1ToN/obj/Debug/net6.0/ref/task63_RecPrint1ToN.dll
+/home/noticed/Desktop/c_sharp/task63_RecPrint1ToN/obj/Debug/net6.0/task63_RecPrint1ToN.pdb
+/home/noticed/Desktop/c_sharp/task63_RecPrint1ToN/obj/Debug/net6.0/task63_RecPrint1ToN.genruntimeconfig.cache

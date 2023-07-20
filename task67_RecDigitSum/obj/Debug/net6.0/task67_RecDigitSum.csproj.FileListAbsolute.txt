@@ -1,0 +1,15 @@
+/home/noticed/Desktop/c_sharp/task67_RecDigitSum/bin/Debug/net6.0/task67_RecDigitSum
+/home/noticed/Desktop/c_sharp/task67_RecDigitSum/bin/Debug/net6.0/task67_RecDigitSum.deps.json
+/home/noticed/Desktop/c_sharp/task67_RecDigitSum/bin/Debug/net6.0/task67_RecDigitSum.runtimeconfig.json
+/home/noticed/Desktop/c_sharp/task67_RecDigitSum/bin/Debug/net6.0/task67_RecDigitSum.dll
+/home/noticed/Desktop/c_sharp/task67_RecDigitSum/bin/Debug/net6.0/ref/task67_RecDigitSum.dll
+/home/noticed/Desktop/c_sharp/task67_RecDigitSum/bin/Debug/net6.0/task67_RecDigitSum.pdb
+/home/noticed/Desktop/c_sharp/task67_RecDigitSum/obj/Debug/net6.0/task67_RecDigitSum.csproj.AssemblyReference.cache
+/home/noticed/Desktop/c_sharp/task67_RecDigitSum/obj/Debug/net6.0/task67_RecDigitSum.GeneratedMSBuildEditorConfig.editorconfig
+/home/noticed/Desktop/c_sharp/task67_RecDigitSum/obj/Debug/net6.0/task67_RecDigitSum.AssemblyInfoInputs.cache
+/home/noticed/Desktop/c_sharp/task67_RecDigitSum/obj/Debug/net6.0/task67_RecDigitSum.AssemblyInfo.cs
+/home/noticed/Desktop/c_sharp/task67_RecDigitSum/obj/Debug/net6.0/task67_RecDigitSum.csproj.CoreCompileInputs.cache
+/home/noticed/Desktop/c_sharp/task67_RecDigitSum/obj/Debug/net6.0/task67_RecDigitSum.dll
+/home/noticed/Desktop/c_sharp/task67_RecDigitSum/obj/Debug/net6.0/ref/task67_RecDigitSum.dll
+/home/noticed/Desktop/c_sharp/task67_RecDigitSum/obj/Debug/net6.0/task67_RecDigitSum.pdb
+/home/noticed/Desktop/c_sharp/task67_RecDigitSum/obj/Debug/net6.0/task67_RecDigitSum.genruntimeconfig.cache
